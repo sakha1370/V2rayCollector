@@ -408,9 +408,9 @@ func GetMessages(doc *goquery.Document, number string, channel string, lastID in
 
 	lastMsgDateStr, _ := lastMsg.Find(".tgme_widget_message_date time").Attr("datetime")
 	lastMsgDate, _ := time.Parse(time.RFC3339, lastMsgDateStr)
-	sixMonthsAgo := time.Now().AddDate(0, -6, 0)
+	oneMonthAgo := time.Now().AddDate(0, -1, 0)
 
-	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(sixMonthsAgo)) {
+	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(oneMonthAgo)) {
 		return newDoc
 	}
 
