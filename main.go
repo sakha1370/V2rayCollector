@@ -188,7 +188,6 @@ func AddConfigNames(config string, configtype string) string {
 func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag bool, lastID int) int {
 	// here we are updating our DOM to include the x messages
 	// in our DOM and then extract the messages from that DOM
-	messages := doc.Find(".tgme_widget_message_wrap").Length()
 	link, exist := doc.Find(".tgme_widget_message_wrap .js-widget_message").Last().Attr("data-post")
 
 	if exist {
