@@ -9,6 +9,7 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/mrvcoder/V2rayCollector/collector"
 
@@ -20,7 +21,7 @@ import (
 
 var (
 	client       = &http.Client{}
-	maxMessages  = 100
+	maxMessages  = 1000
 	ConfigsNames = "@Vip_Security join us"
 	configs      = map[string]string{
 		"ss":     "",
@@ -50,6 +51,27 @@ type ChannelsType struct {
 	AllMessagesFlag bool   `csv:"AllMessagesFlag"`
 }
 
+type ChannelState struct {
+	LastMsgID int `json:"last_msg_id"`
+}
+
+var (
+	stateFile    = "state.json"
+	channelState = make(map[string]ChannelState)
+)
+
+func loadState() {
+	data, err := collector.ReadFileContent(stateFile)
+	if err == nil {
+		json.Unmarshal([]byte(data), &channelState)
+	}
+}
+
+func saveState() {
+	data, _ := json.MarshalIndent(channelState, "", "  ")
+	collector.WriteToFile(string(data), stateFile)
+}
+
 func main() {
 
 	gologger.DefaultLogger.SetMaxLevel(levels.LevelDebug)
@@ -60,6 +82,8 @@ func main() {
 	if err = csvutil.Unmarshal([]byte(fileData), &channels); err != nil {
 		gologger.Fatal().Msg("error: " + err.Error())
 	}
+
+	loadState()
 
 	// loop through the channels lists
 	for _, channel := range channels {
@@ -80,12 +104,24 @@ func main() {
 		fmt.Println(" ")
 		fmt.Println("---------------------------------------")
 		gologger.Info().Msg("Crawling " + channel.URL)
-		CrawlForV2ray(doc, channel.URL, channel.AllMessagesFlag)
+
+		lastID := 0
+		if state, ok := channelState[channel.URL]; ok {
+			lastID = state.LastMsgID
+		}
+
+		latestMsgID := CrawlForV2ray(doc, channel.URL, channel.AllMessagesFlag, lastID)
+		if latestMsgID > lastID {
+			channelState[channel.URL] = ChannelState{LastMsgID: latestMsgID}
+		}
+
 		gologger.Info().Msg("Crawled " + channel.URL + " ! ")
 		fmt.Println("---------------------------------------")
 		fmt.Println(" ")
 		fmt.Println(" ")
 	}
+
+	saveState()
 
 	gologger.Info().Msg("Creating output files !")
 
@@ -149,96 +185,123 @@ func AddConfigNames(config string, configtype string) string {
 	return newConfigs
 }
 
-func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag bool) {
+func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag bool, lastID int) int {
 	// here we are updating our DOM to include the x messages
 	// in our DOM and then extract the messages from that DOM
 	messages := doc.Find(".tgme_widget_message_wrap").Length()
 	link, exist := doc.Find(".tgme_widget_message_wrap .js-widget_message").Last().Attr("data-post")
 
-	if messages < maxMessages && exist {
+	if exist {
 		number := strings.Split(link, "/")[1]
-		doc = GetMessages(maxMessages, doc, number, channelLink)
+		doc = GetMessages(doc, number, channelLink, lastID)
 	}
+
+	latestID := lastID
 
 	// extract v2ray based on message type and store configs at [configs] map
 	if HasAllMessagesFlag {
 		// get all messages and check for v2ray configs
-		doc.Find(".tgme_widget_message_text").Each(func(j int, s *goquery.Selection) {
-			// For each item found, get the band and title
-			messageText, _ := s.Html()
-			str := strings.Replace(messageText, "<br/>", "\n", -1)
-			doc, _ := goquery.NewDocumentFromReader(strings.NewReader(str))
-			messageText = doc.Text()
-			line := strings.TrimSpace(messageText)
-			lines := strings.Split(line, "\n")
-			for _, data := range lines {
-				extractedConfigs := strings.Split(ExtractConfig(data, []string{}), "\n")
-				for _, extractedConfig := range extractedConfigs {
-					extractedConfig = strings.ReplaceAll(extractedConfig, " ", "")
-					if extractedConfig != "" {
-
-						// check if it is vmess or not
-						re := regexp.MustCompile(myregex["vmess"])
-						matches := re.FindStringSubmatch(extractedConfig)
-
-						if len(matches) > 0 {
-							extractedConfig = EditVmessPs(extractedConfig, "mixed", false)
-							if line != "" {
-								configs["mixed"] += extractedConfig + "\n"
-							}
-						} else {
-							configs["mixed"] += extractedConfig + "\n"
-						}
-
-					}
+		doc.Find(".tgme_widget_message_wrap").Each(func(j int, s *goquery.Selection) {
+			msgIDStr, _ := s.Find(".js-widget_message").Attr("data-post")
+			if msgIDStr != "" {
+				id, _ := strconv.Atoi(strings.Split(msgIDStr, "/")[1])
+				if id <= lastID {
+					return
+				}
+				if id > latestID {
+					latestID = id
 				}
 			}
+
+			s.Find(".tgme_widget_message_text").Each(func(k int, textSelection *goquery.Selection) {
+				messageText, _ := textSelection.Html()
+				str := strings.Replace(messageText, "<br/>", "\n", -1)
+				doc, _ := goquery.NewDocumentFromReader(strings.NewReader(str))
+				messageText = doc.Text()
+				line := strings.TrimSpace(messageText)
+				lines := strings.Split(line, "\n")
+				for _, data := range lines {
+					extractedConfigs := strings.Split(ExtractConfig(data, []string{}), "\n")
+					for _, extractedConfig := range extractedConfigs {
+						extractedConfig = strings.ReplaceAll(extractedConfig, " ", "")
+						if extractedConfig != "" {
+
+							// check if it is vmess or not
+							re := regexp.MustCompile(myregex["vmess"])
+							matches := re.FindStringSubmatch(extractedConfig)
+
+							if len(matches) > 0 {
+								extractedConfig = EditVmessPs(extractedConfig, "mixed", false)
+								if extractedConfig != "" {
+									configs["mixed"] += extractedConfig + "\n"
+								}
+							} else {
+								configs["mixed"] += extractedConfig + "\n"
+							}
+
+						}
+					}
+				}
+			})
 		})
 	} else {
 		// get only messages that are inside code or pre tag and check for v2ray configs
-		doc.Find("code,pre").Each(func(j int, s *goquery.Selection) {
-			messageText, _ := s.Html()
-			str := strings.ReplaceAll(messageText, "<br/>", "\n")
-			doc, _ := goquery.NewDocumentFromReader(strings.NewReader(str))
-			messageText = doc.Text()
-			line := strings.TrimSpace(messageText)
-			lines := strings.Split(line, "\n")
-			for _, data := range lines {
-				extractedConfigs := strings.Split(ExtractConfig(data, []string{}), "\n")
-				for protoRegex, regexValue := range myregex {
-
-					for _, extractedConfig := range extractedConfigs {
-
-						re := regexp.MustCompile(regexValue)
-						matches := re.FindStringSubmatch(extractedConfig)
-						if len(matches) > 0 {
-							extractedConfig = strings.ReplaceAll(extractedConfig, " ", "")
-							if extractedConfig != "" {
-								if protoRegex == "vmess" {
-									extractedConfig = EditVmessPs(extractedConfig, protoRegex, false)
-									if extractedConfig != "" {
-										configs[protoRegex] += extractedConfig + "\n"
-									}
-								} else if protoRegex == "ss" {
-									Prefix := strings.Split(matches[0], "ss://")[0]
-									if Prefix == "" {
-										configs[protoRegex] += extractedConfig + "\n"
-									}
-								} else {
-
-									configs[protoRegex] += extractedConfig + "\n"
-								}
-
-							}
-						}
-
-					}
-
+		doc.Find(".tgme_widget_message_wrap").Each(func(j int, s *goquery.Selection) {
+			msgIDStr, _ := s.Find(".js-widget_message").Attr("data-post")
+			if msgIDStr != "" {
+				id, _ := strconv.Atoi(strings.Split(msgIDStr, "/")[1])
+				if id <= lastID {
+					return
+				}
+				if id > latestID {
+					latestID = id
 				}
 			}
 
+			s.Find("code,pre").Each(func(k int, codeSelection *goquery.Selection) {
+				messageText, _ := codeSelection.Html()
+				str := strings.ReplaceAll(messageText, "<br/>", "\n")
+				doc, _ := goquery.NewDocumentFromReader(strings.NewReader(str))
+				messageText = doc.Text()
+				line := strings.TrimSpace(messageText)
+				lines := strings.Split(line, "\n")
+				for _, data := range lines {
+					extractedConfigs := strings.Split(ExtractConfig(data, []string{}), "\n")
+					for protoRegex, regexValue := range myregex {
+
+						for _, extractedConfig := range extractedConfigs {
+
+							re := regexp.MustCompile(regexValue)
+							matches := re.FindStringSubmatch(extractedConfig)
+							if len(matches) > 0 {
+								extractedConfig = strings.ReplaceAll(extractedConfig, " ", "")
+								if extractedConfig != "" {
+									if protoRegex == "vmess" {
+										extractedConfig = EditVmessPs(extractedConfig, protoRegex, false)
+										if extractedConfig != "" {
+											configs[protoRegex] += extractedConfig + "\n"
+										}
+									} else if protoRegex == "ss" {
+										Prefix := strings.Split(matches[0], "ss://")[0]
+										if Prefix == "" {
+											configs[protoRegex] += extractedConfig + "\n"
+										}
+									} else {
+
+										configs[protoRegex] += extractedConfig + "\n"
+									}
+
+								}
+							}
+
+						}
+
+					}
+				}
+			})
 		})
 	}
+	return latestID
 }
 
 func ExtractConfig(Txt string, Tempconfigs []string) string {
@@ -326,7 +389,7 @@ func HttpRequest(url string) *http.Response {
 	return resp
 }
 
-func GetMessages(length int, doc *goquery.Document, number string, channel string) *goquery.Document {
+func GetMessages(doc *goquery.Document, number string, channel string, lastID int) *goquery.Document {
 	x := loadMore(channel + "?before=" + number)
 
 	html2, _ := x.Html()
@@ -336,19 +399,27 @@ func GetMessages(length int, doc *goquery.Document, number string, channel strin
 	doc.Find("body").AppendSelection(doc2.Find("body").Children())
 
 	newDoc := goquery.NewDocumentFromNode(doc.Selection.Nodes[0])
-	messages := newDoc.Find(".js-widget_message_wrap").Length()
 
-	if messages > length {
+	lastMsg := newDoc.Find(".tgme_widget_message_wrap").First()
+	lastMsgIDStr, _ := lastMsg.Find(".js-widget_message").Attr("data-post")
+	lastMsgID := 0
+	if lastMsgIDStr != "" {
+		lastMsgID, _ = strconv.Atoi(strings.Split(lastMsgIDStr, "/")[1])
+	}
+
+	lastMsgDateStr, _ := lastMsg.Find(".tgme_widget_message_date time").Attr("datetime")
+	lastMsgDate, _ := time.Parse(time.RFC3339, lastMsgDateStr)
+	sixMonthsAgo := time.Now().AddDate(0, -6, 0)
+
+	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(sixMonthsAgo)) {
 		return newDoc
-	} else {
-		num, _ := strconv.Atoi(number)
-		n := num - 21
-		if n > 0 {
-			ns := strconv.Itoa(n)
-			GetMessages(length, newDoc, ns, channel)
-		} else {
-			return newDoc
-		}
+	}
+
+	num, _ := strconv.Atoi(number)
+	n := num - 21
+	if n > 0 {
+		ns := strconv.Itoa(n)
+		return GetMessages(newDoc, ns, channel, lastID)
 	}
 
 	return newDoc
