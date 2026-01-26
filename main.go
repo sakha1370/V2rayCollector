@@ -258,12 +258,15 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 	// extract v2ray based on message type and store configs at [configs] map
 	if HasAllMessagesFlag {
 		// get all messages and check for v2ray configs
-		doc.Find(".tgme_widget_message_wrap").Each(func(j int, s *goquery.Selection) {
+		doc.Find(".tgme_widget_message_wrap").EachWithBreak(func(j int, s *goquery.Selection) bool {
+			if j >= maxMessages {
+				return false
+			}
 			msgIDStr, _ := s.Find(".js-widget_message").Attr("data-post")
 			if msgIDStr != "" {
 				id, _ := strconv.Atoi(strings.Split(msgIDStr, "/")[1])
 				if id <= lastID {
-					return
+					return true
 				}
 				if id > latestID {
 					latestID = id
@@ -300,15 +303,19 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 					}
 				}
 			})
+			return true
 		})
 	} else {
 		// get only messages that are inside code or pre tag and check for v2ray configs
-		doc.Find(".tgme_widget_message_wrap").Each(func(j int, s *goquery.Selection) {
+		doc.Find(".tgme_widget_message_wrap").EachWithBreak(func(j int, s *goquery.Selection) bool {
+			if j >= maxMessages {
+				return false
+			}
 			msgIDStr, _ := s.Find(".js-widget_message").Attr("data-post")
 			if msgIDStr != "" {
 				id, _ := strconv.Atoi(strings.Split(msgIDStr, "/")[1])
 				if id <= lastID {
-					return
+					return true
 				}
 				if id > latestID {
 					latestID = id
@@ -356,6 +363,7 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 					}
 				}
 			})
+			return true
 		})
 	}
 	return latestID
@@ -460,7 +468,9 @@ func GetMessages(doc *goquery.Document, number string, channel string, lastID in
 	lastMsgDate, _ := time.Parse(time.RFC3339, lastMsgDateStr)
 	threeMonthsAgo := time.Now().AddDate(0, -3, 0)
 
-	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(threeMonthsAgo)) {
+	msgCount := doc.Find(".tgme_widget_message_wrap").Length()
+
+	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(threeMonthsAgo)) || (msgCount >= maxMessages) {
 		doc.Find("body").AppendSelection(x.Find("body").Children())
 		return goquery.NewDocumentFromNode(doc.Selection.Nodes[0])
 	}
