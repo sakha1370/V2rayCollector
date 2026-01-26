@@ -3,8 +3,8 @@ name: Collector
 # Trigger workflow
 on:
   schedule:
-    # Run at minute 0 of every hour
-    - cron: '0 * * * *'
+    # Run at minute 30 of every hour
+    - cron: '30 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
