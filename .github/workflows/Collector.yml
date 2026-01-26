@@ -7,6 +7,15 @@ on:
     - cron: '30 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
+# Permissions (top-level fallback)
+permissions:
+  contents: write
+
+concurrency:
+  group: Collector
+  cancel-in-progress: false
+
+
 jobs:
   build:
     runs-on: ubuntu-latest
