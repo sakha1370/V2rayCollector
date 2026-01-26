@@ -215,11 +215,11 @@ func main() {
 	}
 
 	// cleanup and save metadata
-	now = time.Now()
+	cleanupNow := time.Now()
 	for proxy, addedTimeStr := range proxyMetadata {
 		addedTime, err := time.Parse(time.RFC3339, addedTimeStr)
 		if err == nil {
-			if now.Sub(addedTime).Hours() > 24*7 {
+			if cleanupNow.Sub(addedTime).Hours() > 24*7 {
 				delete(proxyMetadata, proxy)
 			}
 		}
