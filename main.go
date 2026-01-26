@@ -137,21 +137,18 @@ func main() {
 	}
 
 	saveState()
-	// filter old proxies from metadata
-	now := time.Now()
-	for proxy, addedTimeStr := range proxyMetadata {
-		addedTime, err := time.Parse(time.RFC3339, addedTimeStr)
-		if err == nil {
-			if now.Sub(addedTime).Hours() > 24*7 {
-				delete(proxyMetadata, proxy)
-			}
-		}
-	}
-	saveMetadata()
 
 	gologger.Info().Msg("Creating output files !")
 
 	for proto, configcontent := range configs {
+		fileName := proto + "_iran.txt"
+
+		// Load existing configs from file
+		existingContent, err := collector.ReadFileContent(fileName)
+		if err == nil {
+			configcontent = existingContent + "\n" + configcontent
+		}
+
 		linesArr := strings.Split(configcontent, "\n")
 		filteredLines := []string{}
 		now := time.Now()
@@ -160,11 +157,22 @@ func main() {
 			if line == "" {
 				continue
 			}
-			// Clean config for metadata check
+
+			// Extract only the proxy part for metadata check (remove added names)
 			cleanConfig := line
-			if strings.HasPrefix(line, "vmess://") {
-				cleanConfig = EditVmessPs(line, "mixed", false)
+			for _, regexValue := range myregex {
+				re := regexp.MustCompile(regexValue)
+				matches := re.FindStringSubmatch(line)
+				if len(matches) > 0 {
+					cleanConfig = matches[0]
+					break
+				}
 			}
+
+			if strings.HasPrefix(cleanConfig, "vmess://") {
+				cleanConfig = EditVmessPs(cleanConfig, "mixed", false)
+			}
+
 			// Check if it's already in metadata
 			if addedTimeStr, ok := proxyMetadata[cleanConfig]; ok {
 				addedTime, err := time.Parse(time.RFC3339, addedTimeStr)
@@ -186,22 +194,37 @@ func main() {
 
 		lines := collector.RemoveDuplicate(configcontent)
 		lines = AddConfigNames(lines, proto)
+
+		// Final deduplication after names are added/preserved
+		finalLines := collector.RemoveDuplicate(lines)
+
 		if *sort {
 			// 		from latest to oldest mode :
-			linesArr := strings.Split(lines, "\n")
+			linesArr := strings.Split(finalLines, "\n")
 			linesArr = collector.Reverse(linesArr)
 			lines = strings.Join(linesArr, "\n")
 		} else {
 			// 		from oldest to latest mode :
-			linesArr := strings.Split(lines, "\n")
+			linesArr := strings.Split(finalLines, "\n")
 			linesArr = collector.Reverse(linesArr)
 			linesArr = collector.Reverse(linesArr)
 			lines = strings.Join(linesArr, "\n")
 		}
 		lines = strings.TrimSpace(lines)
-		collector.WriteToFile(lines, proto+"_iran.txt")
-
+		collector.WriteToFile(lines, fileName)
 	}
+
+	// cleanup and save metadata
+	now = time.Now()
+	for proxy, addedTimeStr := range proxyMetadata {
+		addedTime, err := time.Parse(time.RFC3339, addedTimeStr)
+		if err == nil {
+			if now.Sub(addedTime).Hours() > 24*7 {
+				delete(proxyMetadata, proxy)
+			}
+		}
+	}
+	saveMetadata()
 
 	gologger.Info().Msg("All Done :D")
 
@@ -210,34 +233,50 @@ func main() {
 func AddConfigNames(config string, configtype string) string {
 	configs := strings.Split(config, "\n")
 	newConfigs := ""
-	for protoRegex, regexValue := range myregex {
+	for _, extractedConfig := range configs {
+		extractedConfig = strings.TrimSpace(extractedConfig)
+		if extractedConfig == "" {
+			continue
+		}
 
-		for _, extractedConfig := range configs {
+		// Check if it already has a name
+		hasName := false
+		if strings.Contains(extractedConfig, ConfigsNames) {
+			hasName = true
+		}
 
+		found := false
+		for protoRegex, regexValue := range myregex {
 			re := regexp.MustCompile(regexValue)
 			matches := re.FindStringSubmatch(extractedConfig)
 			if len(matches) > 0 {
-				extractedConfig = strings.ReplaceAll(extractedConfig, " ", "")
-				if extractedConfig != "" {
+				found = true
+				if hasName {
+					newConfigs += extractedConfig + "\n"
+				} else {
+					pureConfig := strings.ReplaceAll(extractedConfig, " ", "")
 					if protoRegex == "vmess" {
-						extractedConfig = EditVmessPs(extractedConfig, configtype, true)
-						if extractedConfig != "" {
-							newConfigs += extractedConfig + "\n"
+						pureConfig = EditVmessPs(pureConfig, configtype, true)
+						if pureConfig != "" {
+							newConfigs += pureConfig + "\n"
 						}
 					} else if protoRegex == "ss" {
 						Prefix := strings.Split(matches[0], "ss://")[0]
 						if Prefix == "" {
 							ConfigFileIds[configtype] += 1
-							newConfigs += extractedConfig + ConfigsNames + " - " + strconv.Itoa(int(ConfigFileIds[configtype])) + "\n"
+							newConfigs += pureConfig + ConfigsNames + " - " + strconv.Itoa(int(ConfigFileIds[configtype])) + "\n"
 						}
 					} else {
-
 						ConfigFileIds[configtype] += 1
-						newConfigs += extractedConfig + ConfigsNames + " - " + strconv.Itoa(int(ConfigFileIds[configtype])) + "\n"
+						newConfigs += pureConfig + ConfigsNames + " - " + strconv.Itoa(int(ConfigFileIds[configtype])) + "\n"
 					}
 				}
+				break
 			}
-
+		}
+		if !found && extractedConfig != "" {
+			// fallback if no regex matches but not empty
+			newConfigs += extractedConfig + "\n"
 		}
 	}
 	return newConfigs

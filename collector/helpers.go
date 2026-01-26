@@ -51,34 +51,23 @@ func RemoveDuplicate(config string) string {
 }
 
 func WriteToFile(fileContent string, filePath string) {
-
-	// Check if the file exists
-	if _, err := os.Stat(filePath); err == nil {
-		// If the file exists, clear its content
-		err = os.WriteFile(filePath, []byte{}, 0644)
-		if err != nil {
-			fmt.Println("Error clearing file:", err)
-			return
-		}
-	} else if os.IsNotExist(err) {
-		// If the file does not exist, create it
-		_, err = os.Create(filePath)
-		if err != nil {
-			fmt.Println("Error creating file:", err)
-			return
-		}
-	} else {
-		// If there was some other error, print it and return
-		fmt.Println("Error checking file:", err)
-		return
-	}
-
-	// Write the new content to the file
 	err := os.WriteFile(filePath, []byte(fileContent), 0644)
 	if err != nil {
 		fmt.Println("Error writing file:", err)
 		return
 	}
-
 	fmt.Println("File written successfully")
+}
+
+func AppendToFile(fileContent string, filePath string) {
+	f, err := os.OpenFile(filePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		fmt.Println("Error opening file for append:", err)
+		return
+	}
+	defer f.Close()
+
+	if _, err := f.WriteString(fileContent + "\n"); err != nil {
+		fmt.Println("Error writing to file:", err)
+	}
 }
