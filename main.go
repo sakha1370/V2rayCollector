@@ -52,7 +52,8 @@ type ChannelsType struct {
 }
 
 type ChannelState struct {
-	LastMsgID int `json:"last_msg_id"`
+	LastMsgID     int    `json:"last_msg_id"`
+	LastAddedTime string `json:"last_added_time"`
 }
 
 var (
@@ -121,13 +122,21 @@ func main() {
 		gologger.Info().Msg("Crawling " + channel.URL)
 
 		lastID := 0
+		lastAddedTime := ""
 		if state, ok := channelState[channel.URL]; ok {
 			lastID = state.LastMsgID
+			lastAddedTime = state.LastAddedTime
 		}
 
-		latestMsgID := CrawlForV2ray(doc, channel.URL, channel.AllMessagesFlag, lastID)
-		if latestMsgID > lastID {
-			channelState[channel.URL] = ChannelState{LastMsgID: latestMsgID}
+		latestMsgID, anyAdded := CrawlForV2ray(doc, channel.URL, channel.AllMessagesFlag, lastID)
+		if latestMsgID > lastID || anyAdded || lastAddedTime == "" {
+			if anyAdded || (lastAddedTime == "" && latestMsgID > 0) {
+				lastAddedTime = time.Now().Format(time.RFC3339)
+			}
+			channelState[channel.URL] = ChannelState{
+				LastMsgID:     latestMsgID,
+				LastAddedTime: lastAddedTime,
+			}
 		}
 
 		gologger.Info().Msg("Crawled " + channel.URL + " ! ")
@@ -137,6 +146,90 @@ func main() {
 	}
 
 	saveState()
+
+	// Implement channel removal logic
+	removedChannelsFile := "removed_channels.csv"
+	var activeChannels []ChannelsType
+	var removedChannelsList []map[string]string
+
+	// Load existing removed channels to avoid duplicates
+	existingRemovedData, err := collector.ReadFileContent(removedChannelsFile)
+	existingRemovedMap := make(map[string]bool)
+	if err == nil {
+		type RemovedChannel struct {
+			URL         string `csv:"URL"`
+			RemovalDate string `csv:"RemovalDate"`
+			Reason      string `csv:"Reason"`
+		}
+		var existingRemoved []RemovedChannel
+		if csvutil.Unmarshal([]byte(existingRemovedData), &existingRemoved) == nil {
+			for _, rc := range existingRemoved {
+				existingRemovedMap[rc.URL] = true
+			}
+		}
+	}
+
+	nowTime := time.Now()
+	for _, channel := range channels {
+		shouldRemove := false
+		if state, ok := channelState[collector.ChangeUrlToTelegramWebUrl(channel.URL)]; ok {
+			if state.LastAddedTime != "" {
+				lastAdded, err := time.Parse(time.RFC3339, state.LastAddedTime)
+				if err == nil {
+					if nowTime.Sub(lastAdded).Hours() > 24*30 {
+						shouldRemove = true
+					}
+				}
+			} else {
+				// If LastAddedTime is empty, we might want to initialize it or treat it as new.
+				// For now, let's just initialize it to now if we just saw it in CrawlForV2ray
+				// but since we are after the loop, we can't easily tell.
+				// However, if it's empty and lastID > 0, it means it's an old channel that we haven't tracked yet.
+				// Let's set it to now for the first time we see it with this new logic.
+				// But wait, the issue says "Track the last time each channel successfully added at least one proxy."
+				// If we don't know, we shouldn't remove it yet.
+			}
+		}
+
+		if shouldRemove {
+			if !existingRemovedMap[channel.URL] {
+				removedChannelsList = append(removedChannelsList, map[string]string{
+					"URL":         channel.URL,
+					"RemovalDate": nowTime.Format("2006-01-02"),
+					"Reason":      "no proxies added for 30 days",
+				})
+				gologger.Info().Msg("Removing inactive channel: " + channel.URL)
+			}
+		} else {
+			activeChannels = append(activeChannels, channel)
+		}
+	}
+
+	// Save active channels back to channels.csv
+	if len(activeChannels) != len(channels) {
+		activeData, _ := csvutil.Marshal(activeChannels)
+		collector.WriteToFile(string(activeData), "channels.csv")
+	}
+
+	// Append removed channels to removed_channels.csv
+	if len(removedChannelsList) > 0 {
+		var newRemovedData []byte
+		if existingRemovedData == "" {
+			newRemovedData, _ = csvutil.Marshal(removedChannelsList)
+		} else {
+			// csvutil.Marshal without header is not directly supported easily for slice of maps
+			// We'll just marshal and skip header if file already exists
+			fullNewData, _ := csvutil.Marshal(removedChannelsList)
+			lines := strings.Split(string(fullNewData), "\n")
+			if len(lines) > 1 {
+				newRemovedData = []byte("\n" + strings.Join(lines[1:], "\n"))
+			}
+		}
+		if len(newRemovedData) > 0 {
+			fContent, _ := collector.ReadFileContent(removedChannelsFile)
+			collector.WriteToFile(fContent+string(newRemovedData), removedChannelsFile)
+		}
+	}
 
 	gologger.Info().Msg("Creating output files !")
 
@@ -282,7 +375,7 @@ func AddConfigNames(config string, configtype string) string {
 	return newConfigs
 }
 
-func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag bool, lastID int) int {
+func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag bool, lastID int) (int, bool) {
 	// here we are updating our DOM to include the x messages
 	// in our DOM and then extract the messages from that DOM
 	link, exist := doc.Find(".tgme_widget_message_wrap .js-widget_message").Last().Attr("data-post")
@@ -293,6 +386,7 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 	}
 
 	latestID := lastID
+	anyAdded := false
 
 	// extract v2ray based on message type and store configs at [configs] map
 	if HasAllMessagesFlag {
@@ -333,9 +427,11 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 								extractedConfig = EditVmessPs(extractedConfig, "mixed", false)
 								if extractedConfig != "" {
 									configs["mixed"] += extractedConfig + "\n"
+									anyAdded = true
 								}
 							} else {
 								configs["mixed"] += extractedConfig + "\n"
+								anyAdded = true
 							}
 
 						}
@@ -383,15 +479,18 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 										extractedConfig = EditVmessPs(extractedConfig, protoRegex, false)
 										if extractedConfig != "" {
 											configs[protoRegex] += extractedConfig + "\n"
+											anyAdded = true
 										}
 									} else if protoRegex == "ss" {
 										Prefix := strings.Split(matches[0], "ss://")[0]
 										if Prefix == "" {
 											configs[protoRegex] += extractedConfig + "\n"
+											anyAdded = true
 										}
 									} else {
 
 										configs[protoRegex] += extractedConfig + "\n"
+										anyAdded = true
 									}
 
 								}
@@ -405,7 +504,7 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 			return true
 		})
 	}
-	return latestID
+	return latestID, anyAdded
 }
 
 func ExtractConfig(Txt string, Tempconfigs []string) string {

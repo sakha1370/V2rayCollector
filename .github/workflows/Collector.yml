@@ -2,9 +2,9 @@ name: Collector
 on:
   workflow_dispatch:
   
-#  schedule:
-#    # Run at minute 0 of every hour
-#    - cron: '0 * * * *'
+  schedule:
+    # Run at minute 0 of every hour
+    - cron: '30 * * * *'
 
 jobs:
   build:
