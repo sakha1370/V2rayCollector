@@ -449,15 +449,7 @@ func HttpRequest(url string) *http.Response {
 func GetMessages(doc *goquery.Document, number string, channel string, lastID int) *goquery.Document {
 	x := loadMore(channel + "?before=" + number)
 
-	html2, _ := x.Html()
-	reader2 := strings.NewReader(html2)
-	doc2, _ := goquery.NewDocumentFromReader(reader2)
-
-	doc.Find("body").AppendSelection(doc2.Find("body").Children())
-
-	newDoc := goquery.NewDocumentFromNode(doc.Selection.Nodes[0])
-
-	lastMsg := newDoc.Find(".tgme_widget_message_wrap").First()
+	lastMsg := x.Find(".tgme_widget_message_wrap").First()
 	lastMsgIDStr, _ := lastMsg.Find(".js-widget_message").Attr("data-post")
 	lastMsgID := 0
 	if lastMsgIDStr != "" {
@@ -469,8 +461,12 @@ func GetMessages(doc *goquery.Document, number string, channel string, lastID in
 	oneDayAgo := time.Now().AddDate(0, 0, -1)
 
 	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(oneDayAgo)) {
-		return newDoc
+		doc.Find("body").AppendSelection(x.Find("body").Children())
+		return goquery.NewDocumentFromNode(doc.Selection.Nodes[0])
 	}
+
+	doc.Find("body").AppendSelection(x.Find("body").Children())
+	newDoc := goquery.NewDocumentFromNode(doc.Selection.Nodes[0])
 
 	num, _ := strconv.Atoi(number)
 	n := num - 21
