@@ -58,7 +58,21 @@ type ChannelState struct {
 var (
 	stateFile    = "state.json"
 	channelState = make(map[string]ChannelState)
+	proxyMetadata = make(map[string]string)
+	metadataFile  = "proxies_metadata.json"
 )
+
+func loadMetadata() {
+	data, err := collector.ReadFileContent(metadataFile)
+	if err == nil {
+		json.Unmarshal([]byte(data), &proxyMetadata)
+	}
+}
+
+func saveMetadata() {
+	data, _ := json.MarshalIndent(proxyMetadata, "", "  ")
+	collector.WriteToFile(string(data), metadataFile)
+}
 
 func loadState() {
 	data, err := collector.ReadFileContent(stateFile)
@@ -84,6 +98,7 @@ func main() {
 	}
 
 	loadState()
+	loadMetadata()
 
 	// loop through the channels lists
 	for _, channel := range channels {
@@ -122,10 +137,53 @@ func main() {
 	}
 
 	saveState()
+	// filter old proxies from metadata
+	now := time.Now()
+	for proxy, addedTimeStr := range proxyMetadata {
+		addedTime, err := time.Parse(time.RFC3339, addedTimeStr)
+		if err == nil {
+			if now.Sub(addedTime).Hours() > 24*7 {
+				delete(proxyMetadata, proxy)
+			}
+		}
+	}
+	saveMetadata()
 
 	gologger.Info().Msg("Creating output files !")
 
 	for proto, configcontent := range configs {
+		linesArr := strings.Split(configcontent, "\n")
+		filteredLines := []string{}
+		now := time.Now()
+		for _, line := range linesArr {
+			line = strings.TrimSpace(line)
+			if line == "" {
+				continue
+			}
+			// Clean config for metadata check
+			cleanConfig := line
+			if strings.HasPrefix(line, "vmess://") {
+				cleanConfig = EditVmessPs(line, "mixed", false)
+			}
+			// Check if it's already in metadata
+			if addedTimeStr, ok := proxyMetadata[cleanConfig]; ok {
+				addedTime, err := time.Parse(time.RFC3339, addedTimeStr)
+				if err == nil {
+					if now.Sub(addedTime).Hours() > 24*7 {
+						continue // Older than 7 days
+					}
+				} else {
+					// If error parsing, reset to now
+					proxyMetadata[cleanConfig] = now.Format(time.RFC3339)
+				}
+			} else {
+				// New proxy
+				proxyMetadata[cleanConfig] = now.Format(time.RFC3339)
+			}
+			filteredLines = append(filteredLines, line)
+		}
+		configcontent = strings.Join(filteredLines, "\n")
+
 		lines := collector.RemoveDuplicate(configcontent)
 		lines = AddConfigNames(lines, proto)
 		if *sort {
@@ -408,9 +466,9 @@ func GetMessages(doc *goquery.Document, number string, channel string, lastID in
 
 	lastMsgDateStr, _ := lastMsg.Find(".tgme_widget_message_date time").Attr("datetime")
 	lastMsgDate, _ := time.Parse(time.RFC3339, lastMsgDateStr)
-	oneMonthAgo := time.Now().AddDate(0, -1, 0)
+	oneDayAgo := time.Now().AddDate(0, 0, -1)
 
-	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(oneMonthAgo)) {
+	if (lastID > 0 && lastMsgID <= lastID) || (lastID == 0 && lastMsgDate.Before(oneDayAgo)) {
 		return newDoc
 	}
 
