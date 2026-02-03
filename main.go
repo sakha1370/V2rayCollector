@@ -24,24 +24,33 @@ var (
 	maxMessages  = 1000
 	ConfigsNames = "@Vip_Security join us"
 	configs      = map[string]string{
-		"ss":     "",
-		"vmess":  "",
-		"trojan": "",
-		"vless":  "",
-		"mixed":  "",
+		"ss":      "",
+		"vmess":   "",
+		"trojan":  "",
+		"vless":   "",
+		"mixed":   "",
+		"mtproto": "",
+		"http":    "",
+		"socks":   "",
 	}
 	ConfigFileIds = map[string]int32{
-		"ss":     0,
-		"vmess":  0,
-		"trojan": 0,
-		"vless":  0,
-		"mixed":  0,
+		"ss":      0,
+		"vmess":   0,
+		"trojan":  0,
+		"vless":   0,
+		"mixed":   0,
+		"mtproto": 0,
+		"http":    0,
+		"socks":   0,
 	}
 	myregex = map[string]string{
 		"ss":     `(?m)(...ss:|^ss:)\/\/.+?(%3A%40|#)`,
 		"vmess":  `(?m)vmess:\/\/.+`,
 		"trojan": `(?m)trojan:\/\/.+?(%3A%40|#)`,
 		"vless":  `(?m)vless:\/\/.+?(%3A%40|#)`,
+		"mtproto": `(?m)(https?:\/\/t\.me\/proxy\?server=[^&\s]+&port=\d+&secret=[^&\s]+|mtproto:\/\/[^?\s]+(\?[^&\s]+=[^&\s]+(&[^&\s]+=[^&\s]+)*)?)`,
+		"http":     `(?m)(https?:\/\/[^:\s]+:[^@\s]+@[^:\s]+\:\d+|proxy:\/\/https?:\/\/[^:\s]+:[^@\s]+@[^:\s]+\:\d+)`,
+		"socks":    `(?m)(socks[45]?://[^:\s]+:[^@\s]+@[^:\s]+\:\d+)`,
 	}
 	sort = flag.Bool("sort", false, "sort from latest to oldest (default : false)")
 )
@@ -263,7 +272,7 @@ func main() {
 			}
 
 			if strings.HasPrefix(cleanConfig, "vmess://") {
-				cleanConfig = EditVmessPs(cleanConfig, "mixed", false)
+				cleanConfig = EditVmessPs(cleanConfig, proto, false)
 			}
 
 			// Check if it's already in metadata
@@ -418,22 +427,31 @@ func CrawlForV2ray(doc *goquery.Document, channelLink string, HasAllMessagesFlag
 					for _, extractedConfig := range extractedConfigs {
 						extractedConfig = strings.ReplaceAll(extractedConfig, " ", "")
 						if extractedConfig != "" {
-
-							// check if it is vmess or not
-							re := regexp.MustCompile(myregex["vmess"])
-							matches := re.FindStringSubmatch(extractedConfig)
-
-							if len(matches) > 0 {
-								extractedConfig = EditVmessPs(extractedConfig, "mixed", false)
-								if extractedConfig != "" {
-									configs["mixed"] += extractedConfig + "\n"
-									anyAdded = true
+							// Check for each protocol type
+							found := false
+							for protoRegex, regexValue := range myregex {
+								re := regexp.MustCompile(regexValue)
+								matches := re.FindStringSubmatch(extractedConfig)
+								if len(matches) > 0 {
+									found = true
+									if protoRegex == "vmess" {
+										extractedConfig = EditVmessPs(extractedConfig, protoRegex, false)
+										if extractedConfig != "" {
+											configs[protoRegex] += extractedConfig + "\n"
+											anyAdded = true
+										}
+									} else {
+										configs[protoRegex] += extractedConfig + "\n"
+										anyAdded = true
+									}
+									break
 								}
-							} else {
+							}
+							// If no specific protocol matched, add to mixed
+							if !found {
 								configs["mixed"] += extractedConfig + "\n"
 								anyAdded = true
 							}
-
 						}
 					}
 				}

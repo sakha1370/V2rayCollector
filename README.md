@@ -18,7 +18,7 @@
 ## ✨ Features
 
 - **🔍 Smart Discovery**: Periodically scrapes hundreds of Telegram channels for the latest proxy configurations.
-- **⚡ Multi-Protocol Support**: Full support for `VMess`, `VLess`, `Trojan`, and `Shadowsocks (SS)`.
+- **⚡ Multi-Protocol Support**: Full support for `VMess`, `VLess`, `Trojan`, `Shadowsocks (SS)`, `MTProto`, `HTTP`, and `SOCKS` proxies.
 - **🧹 Intelligent Filtering**: Automatically identifies and extracts valid configs using optimized regular expressions.
 - **📦 Organized Collections**: Categorizes proxies into dedicated protocol-specific files.
 - **📊 Metadata Extraction**: Saves detailed proxy metadata in `proxies_metadata.json` for analysis.
@@ -50,6 +50,9 @@ curl -s https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/mixed_ira
 | 🔒 **Trojan** | [Download trojan_iran.txt](./trojan_iran.txt) |
 | ⚡ **Shadowsocks** | [Download ss_iran.txt](./ss_iran.txt) |
 | 🌍 **Mixed** | [Download mixed_iran.txt](./mixed_iran.txt) |
+| 🟣 **MTProto** | [Download mtproto_iran.txt](./mtproto_iran.txt) |
+| 🟠 **HTTP Proxy** | [Download http_iran.txt](./http_iran.txt) |
+| 🟡 **SOCKS Proxy** | [Download socks_iran.txt](./socks_iran.txt) |
 
 ## 🛠️ Local Usage
 
