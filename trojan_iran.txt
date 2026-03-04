@@ -1616,6 +1616,7 @@ trojan://Nova-Proxy@45.128.76.162:2087?path=%2F%3Fed%3D2560&security=tls&host=ti
 trojan://Nova-Proxy@45.128.76.162:2087?path=%2F%3Fed%3D2560&security=tls&host=tiny-snowflake-b362.sinahaqiqi2025.workers.dev&fp=random&type=ws&sni=tiny-snowflake-b362.sinahaqiqi2025.workers.dev#@Vip_Security join us - 15
 trojan://Nova-Proxy@198.41.200.74:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#@Vip_Security join us - 8
 trojan://Nova-Proxy@198.41.200.74:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#@Vip_Security join us - 3
+trojan://Nova-Proxy@198.41.200.74:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#@Vip_Security join us - 1
 trojan://Nova-Proxy@190.93.244.43:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#@Vip_Security join us - 7
 trojan://Nova-Proxy@190.93.244.43:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#@Vip_Security join us - 2
 trojan://Nova-Proxy@172.67.119.227:8443?path=%2F%3Fed&security=tls&insecure=1&host=aliem.derisvx.workers.dev&type=ws&allowInsecure=1&sni=aliem.derisvx.workers.dev#@Vip_Security join us - 60
