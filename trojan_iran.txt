@@ -317,6 +317,7 @@ trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type
 trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#@Vip_Security join us - 2
 trojan://YRw2bzmWwl@209.200.246.105:17837/?type=grpc&serviceName=&authority=&security=reality&pbk=5gvjnhYk02bUmi_cxQ4dDTYGNz-rLWP0JXHWx6jzQWE&fp=chrome&sni=aws.amazon.com&sid=523b961ba0&spx=%2F#@Vip_Security join us - 1
 trojan://W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2@[::ffff:5eb8:1f32]:443?path=FWsoInxhJTVLXmAuQkAzJU9raylCQx1CXmVBNSESKgl8TH5nBzADOBJac1gQ&security=tls&insecure=1&fp=safari&type=ws&allowInsecure=1&sni=mciglobal.ir#@Vip_Security join us - 3
+trojan://W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2@[::ffff:5eb8:1f32]:443?path=FWsoInxhJTVLXmAuQkAzJU9raylCQx1CXmVBNSESKgl8TH5nBzADOBJac1gQ&security=tls&insecure=1&fp=safari&type=ws&allowInsecure=1&sni=mciglobal.ir#@Vip_Security join us - 1
 trojan://W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2@[::ffff:5eb8:1f32]:443?path=FWsoInxhJTVLXmAuQkAzJU9raylCQx1CXmVBNSESKgl8TH5nBzADOBJac1gQ&security=tls&fp=safari&type=ws&sni=mciglobal.ir#@Vip_Security join us - 2
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@Vip_Security join us - 1
 trojan://RmhZQ47pEm@180.131.145.169:18718/?type=grpc&serviceName=&authority=&security=reality&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&fp=chrome&sni=www.tesla.com&sid=b7df2e7f077d&spx=%2F#@Vip_Security join us - 3
