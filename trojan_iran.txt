@@ -324,6 +324,7 @@ trojan://Nova-Proxy@190.93.244.43:8443?allowInsecure=1&host=small-morning-2668.d
 trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&security=tls&insecure=0&host=small-morning-2668.drusavm.workers.dev&type=ws&allowInsecure=0&sni=small-morning-2668.drusavm.workers.dev#@Vip_Security join us - 4
 trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#@Vip_Security join us - 1
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#@Vip_Security join us - 2
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#@Vip_Security join us - 1
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp&headerType=none#@Vip_Security join us - 3
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp&headerType=none#@Vip_Security join us - 1
 trojan://GdsXparyS16_BEopMz6SAg@185.143.234.110:2087?security=tls&type=ws&headerType=&path=%2F&host=nlhell.nikatelstore.ir&sni=nlhell.nikatelstore.ir&fp=firefox#@Vip_Security join us - 1
