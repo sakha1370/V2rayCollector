@@ -351,6 +351,7 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?sni=www.nintendoga
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?sni=www.nintendogames.net#@Vip_Security join us - 5
 trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@ee3.nnmm.me:443?security=tls&sni=ee3.nnmm.me&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#@Vip_Security join us - 1
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#@Vip_Security join us - 17
+trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?security=tls&sni=jsygouer.weixin-baidu-qq.com#@Vip_Security join us - 1
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#@Vip_Security join us - 2
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@sg03.stimaysmhy8.com:35902?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#@Vip_Security join us - 1
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@jp05.stimaysmhy8.com:35203?type=raw&headerType=none&security=tls&sni=jsygouer.weixin-baidu-qq.com#@Vip_Security join us - 8
