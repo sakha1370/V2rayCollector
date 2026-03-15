@@ -200,6 +200,7 @@ vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c23.prodnsspeed10.ir:443?security=t
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=none&encryption=none&host=nl-90w-c.southnetworks.cloud&type=ws#@Vip_Security join us - 8
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&host=nl-90w-c.southnetworks.cloud&path=%2FgetWorkerUpdates&security=none&type=ws#@Vip_Security join us - 10
 vless://e04c6096-7a26-4b6b-b7b7-57818ac82a97@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#@Vip_Security join us - 16
+vless://e032123c-e7ef-4bd5-aeb2-7db40cac27c3@66.228.39.72:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#@Vip_Security join us - 2
 vless://e02f6539-a29d-4b9f-9a41-e2a1ec3d1d7c@94.101.187.157:3445?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 98
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 97
 vless://de73ea62-68e4-45e2-8cc3-87c6d4b23aa0@141.11.21.219:53458?encryption=none&security=tls&sni=a.sezar.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@Vip_Security join us - 23
