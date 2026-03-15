@@ -52,3 +52,18 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         branch: main
+
+    - name: Create .env from secrets
+      run: |
+        cat <<EOF > .env
+        BOT_TOKEN=${{ secrets.BOT_TOKEN }}
+        CHAT_ID=${{ secrets.CHAT_ID }}
+        URL_FILES=${{ secrets.URL_FILES }}
+        SEND_INLINE_TEXT=${{ secrets.SEND_INLINE_TEXT }}
+        EOF
+
+    - name: Make script executable
+      run: chmod +x script.sh
+
+    - name: Run script
+      run: ./script.sh
