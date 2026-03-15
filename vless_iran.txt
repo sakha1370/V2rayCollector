@@ -51,6 +51,7 @@ vless://f75305e2-de53-4add-acc8-f9308394f5a4@emg3.saipasamandemg3.sbs:2003?secur
 vless://f6faba68-42c7-4eb6-ab60-15177e3aa4ea@188.225.87.106:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=sun6-22.userapi.com&pbk=fmF0aFfyNYEkoHNnbEwnLbdGqHGaeWRNHaVThCX-KjA&sid=41affb633beb186c&spx=%2F#@Vip_Security join us - 67
 vless://f6c513a5-fe44-47dd-f4e2-fb8801398e0c@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 4
 vless://f6c513a5-fe44-47dd-f4e2-fb8801398e0c@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 32
+vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#@Vip_Security join us - 1
 vless://f66f2e73-da63-4066-93df-45bc5ca9a762@s3.333ina.ir:2086?path=%2F&security=none&encryption=none&host=bmi.ir&type=ws#@Vip_Security join us - 88
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@194.87.216.140:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#@Vip_Security join us - 66
 vless://f62e3a25-c28c-432d-9cf9-86ec37dc145c@147.45.178.107:443?security=reality&type=tcp&headerType=&path=/&host=www.google.com&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#@Vip_Security join us - 65
