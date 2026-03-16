@@ -268,6 +268,7 @@ https://t.me/proxy?server=3.3pita.com&port=25565&secret=dd79e344818749bd7ac51913
 https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=212.233.93.104&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949
 https://t.me/proxy?server=209.127.228.166&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
+https://t.me/proxy?server=209.127.228.162&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 https://t.me/proxy?server=209.127.228.158&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 https://t.me/proxy?server=208.115.202.55&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
