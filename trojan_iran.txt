@@ -1015,6 +1015,7 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@Vip_Security join us - 12
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus01.weyaf9sdoh2h.space#@Vip_Security join us - 8
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@v2.dabache.top:443?security=tls&sni=_acme-challenge.sb.cloudns.biz&insecure=1&allowInsecure=1&type=ws&host=_acme-challenge.sb.cloudns.biz&path=%2F#@Vip_Security join us - 11
+trojan://86e150eb21c6faee48e81d496d7f61c2@54.199.166.248:4920?allowInsecure=0&sni=www.nintendogames.net#@Vip_Security join us - 2
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?allowInsecure=1&sni=www.nintendogames.net#@Vip_Security join us - 3
 trojan://869e9086806483ca4744a4cb0f3d6e16@203.198.122.227:443?allowInsecure=1&headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#@Vip_Security join us - 6
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:5076?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#@Vip_Security join us - 5
