@@ -9,6 +9,7 @@ https://t.me/proxy?server=tg.dynme.ovh&port=9443&secret=ee6d2805bb3050f7e76033c2
 https://t.me/proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d
 https://t.me/proxy?server=telegram.mtpproxy.ltvpn.org&port=443&secret=9e9458e4b939ce0894bc146049e64b58
 https://t.me/proxy?server=tel.3erveronline.com&port=5050&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
+https://t.me/proxy?server=rimuruproject.ru&port=8443&secret=dd248cdb278a96b01d27f67787135791da
 https://t.me/proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
 https://t.me/proxy?server=mtp2.peppervpn.ru&port=443&secret=dd471b8371d6df2c003ffaa30533a99fac
