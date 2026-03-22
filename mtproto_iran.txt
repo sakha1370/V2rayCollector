@@ -33,7 +33,6 @@ https://t.me/proxy?server=BEST.FOR-ALL.TK&port=443&secret=dd540e3ca27f4612b1e2bd
 https://t.me/proxy?server=95.163.215.131&port=8443&secret=18951ef5faaf08ed56bd158134f4241b
 https://t.me/proxy?server=94.237.76.119&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=94.184.26.59&port=15224&secret=ee91497bf49c81243ab60717929edb0009616a61782e393236372e31302e646e732e31332e313336303033353231342e7370656564746573742e6e6574
-https://t.me/proxy?server=94.126.207.189&port=443&secret=bf7c5a95ce4e90e4cbc7aa2cae6d53ea
 https://t.me/proxy?server=93.123.30.203&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=93.115.203.140&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
