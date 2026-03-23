@@ -34,7 +34,6 @@ https://t.me/proxy?server=Best.For-All.tk&port=443&secret=dd540e3ca27f4612b1e2bd
 https://t.me/proxy?server=BEST.FOR-ALL.TK&port=443&secret=dd540e3ca27f4612b1e2bdf1229e0a9c63
 https://t.me/proxy?server=95.163.215.131&port=8443&secret=18951ef5faaf08ed56bd158134f4241b
 https://t.me/proxy?server=94.237.76.119&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=94.184.26.59&port=15224&secret=ee91497bf49c81243ab60717929edb0009616a61782e393236372e31302e646e732e31332e313336303033353231342e7370656564746573742e6e6574
 https://t.me/proxy?server=93.123.30.203&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=93.115.203.140&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
@@ -95,6 +94,7 @@ https://t.me/proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac5
 https://t.me/proxy?server=195.254.165.241&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=193.58.122.79&port=8443&secret=dda846f53d7df8721f014618d58cd28130
+https://t.me/proxy?server=185.97.116.230&port=56203&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d
 https://t.me/proxy?server=185.174.137.50&port=8443&secret=676c4049812b842b7792954bf2a32943
 https://t.me/proxy?server=166.1.160.127&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
