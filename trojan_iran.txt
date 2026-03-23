@@ -109,6 +109,7 @@ trojan://telegram-id-privatevpns@15.237.55.242:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.237.55.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 17
 trojan://telegram-id-privatevpns@15.237.55.242:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 5
 trojan://telegram-id-privatevpns@15.236.33.201:22222?type=tcp&headerType=none&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#@Vip_Security join us - 2
+trojan://telegram-id-privatevpns@15.236.33.201:22222?type=tcp&headerType=none&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#@Vip_Security join us - 1
 trojan://telegram-id-privatevpns@15.236.33.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 5
 trojan://telegram-id-privatevpns@15.236.33.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 4
 trojan://telegram-id-privatevpns@15.236.33.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 1
