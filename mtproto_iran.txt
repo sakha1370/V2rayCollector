@@ -62,6 +62,7 @@ https://t.me/proxy?server=5.39.250.20&port=443&secret=6356ebb33a57b6deda8a1c3cf2
 https://t.me/proxy?server=5.188.140.234&port=443&secret=f5199e949c0f23bc887581218ad8c1e6
 https://t.me/proxy?server=5.101.82.207&port=7878&secret=48f739d003f42d13dd318bcbd5757d4b
 https://t.me/proxy?server=5.101.82.206&port=7878&secret=48f739d003f42d13dd318bcbd5757d4b
+https://t.me/proxy?server=45.76.42.26&port=443&secret=874068f2508532ada670077c0c69ab0e
 https://t.me/proxy?server=45.63.54.93&port=443&secret=424c83ee2b1d9df8016fa083c30fa02c
 https://t.me/proxy?server=45.32.82.81&port=443&secret=689e89eecd678cf3f989108c76634867
 https://t.me/proxy?server=45.32.174.55&port=443&secret=53571a3953ffd1516191fa2af92c7866
@@ -73,6 +74,7 @@ https://t.me/proxy?server=37.139.42.140&port=443&secret=f5199e949c0f23bc88758121
 https://t.me/proxy?server=37.139.32.18&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d
 https://t.me/proxy?server=31.47.51.152&port=8581&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 https://t.me/proxy?server=2b2iran.ir&port=6868&secret=1d4801a680ae5149a23d7a31920785f5
+https://t.me/proxy?server=217.69.11.92&port=443&secret=1199332058f7d654763443d8cb4f638f
 https://t.me/proxy?server=217.177.75.145&port=443&secret=1b23e68aebd74373a29ac5f5523fa29c
 https://t.me/proxy?server=216.230.234.3&port=8443&secret=cd25966d58b3a452ea24ed9ca78a2799
 https://t.me/proxy?server=212.80.10.247&port=8443&secret=767cf6f14f461cdd166b54eddb53e1b0
