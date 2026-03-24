@@ -195,6 +195,7 @@ vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@vip1.kaixincloud.top:443?type=ws&en
 vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@162.159.7.2:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=r.icy.de5.net&sni=r.icy.de5.net#@Vip_Security join us - 2
 vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.18.41.43:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=r.icy.de5.net&sni=r.icy.de5.net#@Vip_Security join us - 1
 vless://9b4fd9d0-0508-4bcb-b60e-4275adb878bb@games.shabroo.com:6690?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Vip_Security join us - 1
+vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.123.20.181:443?security=&encryption=none&headerType=&type=tcp#@Vip_Security join us - 1
 vless://99dc0156-ee50-43ba-b70d-89f2a2857aa6@193.151.152.118:670?security=&encryption=none&type=grpc#@Vip_Security join us - 3
 vless://9920d8dc-6823-4be6-a9ac-522e8584fbca@mlh.mynethub99.top:2083?type=tcp&security=none#@Vip_Security join us - 4
 vless://98bd825a-6195-4d1b-ae4f-50085f37e558@p.gostargate.top:443?security=&encryption=none&host=static.telewebion.ir&headerType=http&type=tcp#@Vip_Security join us - 2
