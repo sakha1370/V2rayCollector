@@ -158,7 +158,6 @@ vless://b9a191fd-679f-41d5-ab03-95bcecd173d1@87.107.146.183:8443?type=tcp&encryp
 vless://b9893e43-fc84-4177-8561-bbd3515e6736@185.206.93.46:6061?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@Vip_Security join us - 10
 vless://b91ec7ae-871f-3021-8433-55eaee170ec9@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 3
 vless://b89fb364-f78f-4d85-adeb-bc49a8c1f027@87.107.105.45:441?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 4
-vless://b85bcaa9-2259-4de8-a32c-f31e06c13827@213.195.22.39:35000?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@Vip_Security join us - 3
 vless://b85bcaa9-2259-4de8-a32c-f31e06c13827@213.195.22.39:35000?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#@Vip_Security join us - 6
 vless://b78582f9-07f7-4b47-837c-3ef3e31cafee@185.226.117.223:8443?encryption=none&type=tcp&headerType=none&host=www.speedtest.net#@Vip_Security join us - 4
 vless://b74cd0fd-fb4c-4cda-9efe-ef383f88af7c@193.242.125.155:53646?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 3
