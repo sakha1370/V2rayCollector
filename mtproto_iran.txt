@@ -14,6 +14,7 @@ https://t.me/proxy?server=sn11.multiproxy.info&port=20453&secret=a2e74f718bfcfad
 https://t.me/proxy?server=saturnlink.space&port=443&secret=eea85f2776cc83dbff66b440fb03050cf773617475726e6c696e6b2e7370616365
 https://t.me/proxy?server=sardar.spdns.eu&port=200&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 https://t.me/proxy?server=s1.sosproxy.space&port=443&secret=ee668f277db019fe88c30c8e498e72446764726976652e676f6f676c652e636f6d
+https://t.me/proxy?server=s1.sosproxy.space&port=443&secret=ee668f277db019fe88c30c8e498e72446764726976652e676f6f676c652e636f6
 https://t.me/proxy?server=rimuruproject.ru&port=8443&secret=dd248cdb278a96b01d27f67787135791da
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=1603010200010001fc031386e24c3add
 https://t.me/proxy?server=prx01.gtgt.ru&port=4433&secret=eeffb8ecadb37e893760b73778ed5a4ae97777772e6761727368696e6b612e7275
