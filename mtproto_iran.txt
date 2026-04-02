@@ -9,7 +9,6 @@ https://t.me/proxy?server=tgobhod.lol&port=443&secret=e2d098e948ff6c858b29f9e577
 https://t.me/proxy?server=tgobhod.lol&port=443&secret=1f66cebc6de568853ea5d965cd580ee2
 https://t.me/proxy?server=tg2.panther.pics&port=443&secret=9a327c9c52a366e306fd74d617de517d
 https://t.me/proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80
-https://t.me/proxy?server=tg.scroogevpn.com&port=443&secret=59d307276beb8f4d8a0ed547eb6a461a
 https://t.me/proxy?server=tg.safepal.life&port=443&secret=ee65682e766b2e636f6d4c2dce97862b
 https://t.me/proxy?server=tg.pepewtf.top&port=443&secret=eecb3c473c7bbea00855003ab715668c5074672e706570657774662e746f70
 https://t.me/proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d
@@ -35,6 +34,7 @@ https://t.me/proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6d
 https://t.me/proxy?server=proxyobhod.online&port=443&secret=01b307acba4f54f55aafc33bb06bbbf6
 https://t.me/proxy?server=proxym.world&port=443&secret=1b6453892473a467d07372d45eb05abc
 https://t.me/proxy?server=proxydazhenaparkovke.site&port=443&secret=dde8aa2e8c1ad50570b7d6fe7e0ba3d677
+https://t.me/proxy?server=proxy.v2tunray.io&port=443&secret=6642dae4b4c5f45b42fc4130a4c1dbdf
 https://t.me/proxy?server=proxy-sosavpn.ru&port=8443&secret=e675e7ab7553ed8aa0ba2a91c575cfcc
 https://t.me/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8
 https://t.me/proxy?server=pro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
@@ -46,6 +46,7 @@ https://t.me/proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e944
 https://t.me/proxy?server=my.safepal.life&port=443&secret=ee65682e766b2e636f6db97f3e8c4607
 https://t.me/proxy?server=mtproto.959105.xyz&port=443&secret=dd36ab242aef22c2170c1e86aa984585ae
 https://t.me/proxy?server=mtp.vsemvpn.cc&port=443&secret=dd15992ff6e054e6b06faab3689633355c
+https://t.me/proxy?server=mtp.kndrsxraybot.com&port=443&secret=dde9748eba6c95f9db1a0458166890a86d
 https://t.me/proxy?server=mtp.fasti.fun&port=8443&secret=76291e5f4627757a22173cec26b1c892
 https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
@@ -62,7 +63,6 @@ https://t.me/proxy?server=general.irancell-ir.cfd&port=443&secret=ee160301020001
 https://t.me/proxy?server=free.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=eef48f621b110f302e468756840c29f916766b2e636f6d
-https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=emulsify.encarnadine.erf.porno.siftings.ugara.net&port=18571&secret=b4022dab52636cd3fc3758a5c8ff0e10
 https://t.me/proxy?server=elizabeth.paling.popularist.rosarium.silverfish.popochek.com&port=28721&secret=a7021aea493d78810706eda5f5110b00
 https://t.me/proxy?server=dunner.garage.misspeak.right.toast.sharpss.com&port=6722&secret=16f8080fac657c96a14d06675ebd357d
@@ -110,6 +110,7 @@ https://t.me/proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=89.36.95.42&port=9443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=89.36.95.30&port=8080&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=89.36.95.13&port=9443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
+https://t.me/proxy?server=89.223.68.176&port=443&secret=ee1e87bcc1b29f4b8481996d1b34e5ccbe766f6c6b73776167656e2e636f6d
 https://t.me/proxy?server=89.125.98.143&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 https://t.me/proxy?server=85.133.194.99&port=6443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=85.133.194.5&port=6443&secret=dd79e344818749bd7ac519130220c25d09
