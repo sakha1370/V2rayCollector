@@ -73,7 +73,6 @@ https://t.me/proxy?server=de-03.satoshidiary.org&port=8443&secret=ee6d33147f1bbc
 https://t.me/proxy?server=connect.solutions.solutions&port=443&secret=dd2ae5891b2b9b9b811b212050843193aa
 https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=click.flashgatevpn.ru&port=1337&secret=45eef8f24d8b24949ac4611708cb7530
-https://t.me/proxy?server=chipolata.flavorus.hoaxer.rattrap.scrub.akoypinoytv.net&port=7800&secret=bf027426b873e9821394c097a696ba61
 https://t.me/proxy?server=chat.live-agents.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=carburet.foxtrot.headmistress.helminth.raj.teleseryerewind.com&port=6800&secret=4dcebaabeb692bdc9ad03486b090da76
 https://t.me/proxy?server=bump.circumvent.nipplewort.obstinate.statewide.shivann.com&port=7644&secret=08b84d508f55340fa9bcc41bed3790fb
@@ -81,7 +80,6 @@ https://t.me/proxy?server=brilliantly.enact.generously.nutcase.scansion.rawisda.
 https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e657
 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574
-https://t.me/proxy?server=av.extravpn.info&port=443&secret=fd29b8a449151cc37f8c27ebcdd0d43d
 https://t.me/proxy?server=astrocompass.gymnocarpous.locus.sculpturesque.undoing.filka.info&port=42685&secret=e022c51e111cfa8c3dfed7e90d02e39f
 https://t.me/proxy?server=alive.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=adenocarcinoma.anemia.coypu.czardas.inclusively.shivann.com&port=10388&secret=e6fb3036da9cc2247bf183642ae652e0
@@ -120,7 +118,6 @@ https://t.me/proxy?server=82.27.2.223&port=443&secret=9f27410725ab8ab84ed17daf14
 https://t.me/proxy?server=82.22.35.237&port=443&secret=eede4561475230e254519f3011f0f32a976d61782e7275
 https://t.me/proxy?server=81.90.25.57&port=443&secret=2b861a9d646551532a86c0de2d9fab02
 https://t.me/proxy?server=81.90.17.175&port=8443&secret=ee79612e7275494a98c6918e3e987ced
-https://t.me/proxy?server=81.29.249.82&port=38754&secret=ee3719ae64a1d717a688ef82c5b6e32bea7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=80.78.27.46&port=443&secret=ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=80.249.131.53&port=3232&secret=dd3e0848dc48c09f0a8731af8c088fc5f5
 https://t.me/proxy?server=79.175.149.195&port=443&secret=ddfc6adfdaea5e6347f6511d9456cda8b0
