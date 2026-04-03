@@ -213,6 +213,7 @@ trojan://telegram-id-directvpn@15.188.149.87:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.188.149.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 15
 trojan://telegram-id-directvpn@15.188.149.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 14
 trojan://telegram-id-directvpn@15.188.149.87:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Vip_Security join us - 5
+trojan://telegram-id-directvpn@15.188.149.87:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Vip_Security join us - 2
 trojan://telegram-id-directvpn@15.188.149.87:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Vip_Security join us - 14
 trojan://telegram-id-directvpn@15.188.132.93:22223?type=tcp&headerType=none&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#@Vip_Security join us - 17
 trojan://telegram-id-directvpn@15.188.132.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 16
