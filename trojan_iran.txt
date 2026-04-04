@@ -409,6 +409,7 @@ trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&type=w
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&type=ws#@Vip_Security join us - 1
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#@Vip_Security join us - 4
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#@Vip_Security join us - 3
+trojan://P7BHXfyDH5@ghostinshadow.chesmina.xyz:56672?security=tls&insecure=1&headerType=http&type=tcp&allowInsecure=1#@Vip_Security join us - 1
 trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#@Vip_Security join us - 1
 trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?allowInsecure=1&type=ws#@Vip_Security join us - 2
 trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?allowInsecure=1&path=%2F&type=ws#@Vip_Security join us - 2
