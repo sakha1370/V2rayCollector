@@ -8,7 +8,6 @@ https://t.me/proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220
 https://t.me/proxy?server=vavan.online&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=total.beyondeson-co.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=tgproxy2.appav.net&port=443&secret=8bf3a57e01e2d2c226113d338840793d
-https://t.me/proxy?server=tgobhod.lol&port=443&secret=e2d098e948ff6c858b29f9e577d24838
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=tg2.panther.pics&port=443&secret=9a327c9c52a366e306fd74d617de517d
 https://t.me/proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80
@@ -914,7 +913,6 @@ https://t.me/proxy?server=62.84.97.63&port=443&secret=ee1603010200010001fc030386
 https://t.me/proxy?server=62.60.177.196&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=62.182.198.80&port=443&secret=dd4487ada2c270c4b9542b2a5d217ba8
 https://t.me/proxy?server=6161627.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=57.129.121.20&port=443&secret=80e3c68c7228488444913e77777dddfe
 https://t.me/proxy?server=51.250.72.173&port=8443&secret=ddbfd846b76b7374c38a008c6af9255fdc
 https://t.me/proxy?server=50.7.156.50&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=50.7.127.174&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
@@ -934,7 +932,6 @@ https://t.me/proxy?server=45.32.85.206&port=443&secret=3bc92b1b53d6f87d3f82dea5b
 https://t.me/proxy?server=45.151.62.225&port=8888&secret=ddfc1789f0b1a5ed0adcf61ef5dca34efa
 https://t.me/proxy?server=43.250.53.22&port=443&secret=4fc30d1222972a04067e805a5134cb57
 https://t.me/proxy?server=37.27.42.53&port=443&secret=ee400beecda94bbb22a7759357fd921c00636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=37.152.189.153&port=46969&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=37.152.186.108&port=1602&secret=ee42f91557b99ac0aeb44579989478b3817777772e676f6f676c652e636f6d
 https://t.me/proxy?server=37.152.186.108&port=1601&secret=ee69e4d0d954ac7173e4f3719caeb8ebde7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=37.152.186.108&port=1600&secret=ee6daf5d036b041fba05b70f448e4f6f767777772e676f6f676c652e636f6d
@@ -947,7 +944,6 @@ https://t.me/proxy?server=209.127.228.162&port=443&secret=ee32b920dffb51643028e2
 https://t.me/proxy?server=204.168.238.0&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 https://t.me/proxy?server=204.168.201.238&port=8080&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.4&port=13&secret=104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.244&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -963,7 +959,6 @@ https://t.me/proxy?server=193.233.82.101&port=443&secret=78a76f41b4e0eb5399d78dc
 https://t.me/proxy?server=193.222.99.7&port=8888&secret=bb560aad55358c4fe10ae84cb8110348
 https://t.me/proxy?server=188.137.232.184&port=443&secret=ee6293ee0eaa15186ea42d9b571b9275b17777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=185.3.200.191&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
-https://t.me/proxy?server=185.209.42.69&port=8443&secret=20f39711247d6cd5983510336d9b827f
 https://t.me/proxy?server=185.189.167.200&port=5222&secret=dd7521cbf9f275c72cb46b0d5a6103c3
 https://t.me/proxy?server=185.185.143.234&port=443&secret=eec7186c53e796f86bb0538504842dbf69676172626167652e6c6f63616c
 https://t.me/proxy?server=178.236.240.75&port=443&secret=ee122f4747845ff025f6fedb9a2f0427c17777772e677374617469632e636f6d
