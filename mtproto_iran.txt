@@ -930,6 +930,7 @@ https://t.me/proxy?server=45.129.39.135&port=8869&secret=767cf6f14f461cdd166b54e
 https://t.me/proxy?server=37.46.211.176&port=3019&secret=dd9944774a88592e735e70ed9f3096af5c
 https://t.me/proxy?server=37.27.42.53&port=443&secret=ee400beecda94bbb22a7759357fd921c00636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=37.202.248.120&port=80&secret=0feeb488ea1f4a9b741a145bc00d3004
+https://t.me/proxy?server=37.152.189.200&port=1660&secret=eea0325dc8d598354392d607d6e6622b6f7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=37.152.186.108&port=1602&secret=ee42f91557b99ac0aeb44579989478b3817777772e676f6f676c652e636f6d
 https://t.me/proxy?server=37.152.186.108&port=1601&secret=ee69e4d0d954ac7173e4f3719caeb8ebde7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=37.152.186.108&port=1600&secret=ee6daf5d036b041fba05b70f448e4f6f767777772e676f6f676c652e636f6d
