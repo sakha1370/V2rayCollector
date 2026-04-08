@@ -375,6 +375,7 @@ trojan://XPsK3oaIv8@snapp.ir:80?type=ws&path=%2F&host=ft.bazisazy.ir&security=no
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?security=tls&sni=ord2.edge-command.click#@Vip_Security join us - 3
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#@Vip_Security join us - 2
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#@Vip_Security join us - 1
+trojan://TOwMPNqmZvUobRbEAZxFiN1q@185.189.58.195:37976?type=tcp&security=tls&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#@Vip_Security join us - 1
 trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#@Vip_Security join us - 4
 trojan://T9BpZIVMNv@v3.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#@Vip_Security join us - 3
 trojan://P7BHXfyDH5@ghostinshadow.chesmina.xyz:56672?security=tls&insecure=1&headerType=http&type=tcp&allowInsecure=1#@Vip_Security join us - 1
