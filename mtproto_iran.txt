@@ -881,7 +881,6 @@ https://t.me/proxy?server=89.223.68.176&port=443&secret=ee1e87bcc1b29f4b8481996d
 https://t.me/proxy?server=89.117.1.234&port=443&secret=eeb821a0ec7efc336d521069d6db22d9
 https://t.me/proxy?server=87.248.130.219&port=11111&secret=a2e74f718bfcfadc62ded92d5994ba1d
 https://t.me/proxy?server=87.239.107.157&port=1984&secret=8da89d4cbe02211ef329d004819e4eb9
-https://t.me/proxy?server=85.133.194.132&port=9443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=84.23.53.16&port=443&secret=ddc0354b7193b79b12c42803e5ec5cd706
 https://t.me/proxy?server=84.201.173.20&port=443&secret=9b31714333fcb181199fc46f9cb8068d
 https://t.me/proxy?server=82.27.2.223&port=443&secret=9f27410725ab8ab84ed17daf14723236
@@ -891,8 +890,6 @@ https://t.me/proxy?server=80.249.131.53&port=3232&secret=dd3e0848dc48c09f0a8731a
 https://t.me/proxy?server=79.175.149.195&port=443&secret=ddfc6adfdaea5e6347f6511d9456cda8b0
 https://t.me/proxy?server=79.127.69.124&port=443&secret=a73af25017b1cc397801decfac32748a
 https://t.me/proxy?server=78.47.67.183&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=77.72.80.80&port=9443&secret=79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=77.72.80.80&port=443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.77&port=9443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.203&port=9443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.136&port=9443&secret=79e70102001e7807f0104386124c0479
@@ -900,8 +897,6 @@ https://t.me/proxy?server=77.72.80.135&port=25565&secret=dd79e344818749bd7ac5191
 https://t.me/proxy?server=77.72.80.133&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.130&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.117&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=77.72.80.116&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=77.72.80.115&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.112&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=77.72.80.100&port=25565&secret=dd79e344818749bd7ac519130220c25d09
