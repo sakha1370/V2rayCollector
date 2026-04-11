@@ -4,7 +4,6 @@ https://t.me/proxy?server=www.newtcpconnectiodo.store&port=888&secret=ee0c306282
 https://t.me/proxy?server=www.merco-karco.website&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=www.ipify.icu.&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=www.galacticfireworks.pro.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=visa-tl-si4.m3hran.site&port=443&secret=ee7a305ea4e8c42bfdb8e3259d8c288d
 https://t.me/proxy?server=vip.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220c25d09
@@ -12,14 +11,12 @@ https://t.me/proxy?server=vavan.online&port=443&secret=dd104462821249bd7ac519130
 https://t.me/proxy?server=total.beyondeson-co.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=tgproxy2.appav.net&port=443&secret=8bf3a57e01e2d2c226113d338840793d
 https://t.me/proxy?server=tgproxy.staxel.top&port=443&secret=07b81c8257a3cc7a77244e6dae3cf2bd
-https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80
 https://t.me/proxy?server=tg.servervless.ru&port=9443&secret=0867e1b95cc9aa87049f7d68fa83760d
 https://t.me/proxy?server=tg.nosokvpn.com&port=443&secret=118fb8496cb1abb9cd6e0fbe1000ad92
 https://t.me/proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dda69c7
 https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721
 https://t.me/proxy?server=super.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=stay.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=soft.telegramharvester.ru&port=443&secret=ee05ca1fb5eadbac1e7e8c725695b48f0079612e7275
 https://t.me/proxy?server=sn5.multiproxy.info&port=30909&secret=d2262c070bf50f629497fd3d38f45555
 https://t.me/proxy?server=sardar.spdns.eu&port=200&secret=dd8b2394ad2ecef7e607d5f52b31a45768
@@ -808,7 +805,6 @@ https://t.me/proxy?server=ru3.mtproxy.me&port=443&secret=ee3f354f86e59e2c166c830
 https://t.me/proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
 https://t.me/proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592
 https://t.me/proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751
-https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=proxy-sosavpn1.duckdns.org&port=8443&secret=f5a96ceadd1bbedd719fbd7f1c9387dd
 https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a94ceadd1bbedd919fbd9f1c9347dd
 https://t.me/proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a629280e686cf
@@ -820,7 +816,6 @@ https://t.me/proxy?server=mtproto.eu&port=443&secret=eebd22cd34081c9420e8515a153
 https://t.me/proxy?server=mtproto.eu&port=443&secret=bd22cd34081c9420e8515a153186e632
 https://t.me/proxy?server=mt.skadi.help&port=443&secret=dd382a00f48a0592ff49a30aa55017cc09
 https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=microscopic.tk&port=443&secret=eec2a79791ba81f4ab0927c818ea2ffb
 https://t.me/proxy?server=mash.drproxy.pro&port=443&secret=dda5a7b5711e648c7bd534e4e87de2241b
 https://t.me/proxy?server=jxhwr55p.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=jxhswdsh.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
@@ -834,15 +829,13 @@ https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee16030
 https://t.me/proxy?server=cheburnet.n3o.ooo&port=4444&secret=00000040004004444400044400000000
 https://t.me/proxy?server=budget.inveris.leech.sanative.textureless.rawisda.com&port=4431&secret=a86e0553ca25bb896d2ba821497752e9
 https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
+https://t.me/proxy?server=billboardton2.duckdns.org&port=443&secret=ee66ceae886b50975e592ad71558b1202b62696c6c626f617264746f6e322e6475636b646e732e6f7267
 https://t.me/proxy?server=bereg-connect.bopen.bond&port=443&secret=b4b54ddf0b9f3b82dd7b4a5a888ea82d
 https://t.me/proxy?server=andromache.bistatic.cacology.sollar.yellowback.teleseryena.com&port=4750&secret=09778fbf9a8637019152041afbf08a17
 https://t.me/proxy?server=alive.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=akenai.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
 https://t.me/proxy?server=UpTime.ChMTP.Info&port=88&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
-https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
-https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
 https://t.me/proxy?server=FAST.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d
 https://t.me/proxy?server=FAST.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 https://t.me/proxy?server=Eye.ChMTP.Info&port=88&secret=dd00000000000000000000000000000000
