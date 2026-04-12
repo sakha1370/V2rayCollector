@@ -303,6 +303,7 @@ trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.mul
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@Vip_Security join us - 7
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@Vip_Security join us - 5
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@Vip_Security join us - 3
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@Vip_Security join us - 1
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#@Vip_Security join us - 5
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#@Vip_Security join us - 4
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@Vip_Security join us - 6
