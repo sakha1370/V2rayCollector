@@ -1,2 +1,1 @@
 socks://admin:7755@2.144.23.46:500@Vip_Security join us - 1
-socks5://admin:7755@2.144.23.46:500@Vip_Security join us - 1
