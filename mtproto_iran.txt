@@ -14,7 +14,6 @@ https://t.me/proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d00
 https://t.me/proxy?server=pupup.krotmonstr.online&port=443&secret=eedd6dee611ff532e1b1992e0ed9235c4d7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=prxyhub.click&port=443&secret=9f27410725ab8ab84ed17daf14723236
 https://t.me/proxy?server=prxtg.enterlancevpn.com&port=8443&secret=ee79612e7275c8d582e6565ef8a46786
-https://t.me/proxy?server=proxy.pushvpn.space&port=443&secret=ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=proxy-v2-3.sapog-host.ru&port=443&secret=ee0b0535863e1462dabb9c9e00c5861d14726164696f7265636f72642e7275
 https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
@@ -27,7 +26,6 @@ https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000
 https://t.me/proxy?server=microscopic.tk&port=443&secret=eec2a79791ba81f4ab0927c818ea2ffb
 https://t.me/proxy?server=jxhwr55p.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=jxhswdsh.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=jettonhub.com&port=443&secret=ee79bebd21021a06e2bac7a525855bed8379616e6465782e7275
 https://t.me/proxy?server=insnapp.space&port=2053&secret=eeaac85835fb7d25b992ea0416b2ede075696e736e6170702e7370616365
 https://t.me/proxy?server=i.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d
@@ -49,7 +47,6 @@ https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=azoth.perspicacity.plumb.subterranean.windhover.hapka.info&port=47950&secret=02df448b82a673388d14a5a40064a88b
 https://t.me/proxy?server=av.extravpn.info&port=443&secret=fd29b8a449151cc37f8c27ebcdd0d43d
 https://t.me/proxy?server=alive.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
 https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
