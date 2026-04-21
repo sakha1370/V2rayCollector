@@ -9,6 +9,7 @@ https://t.me/proxy?server=tg.caxero.ru&port=6767&secret=fffc0efade691faeaccb0ee0
 https://t.me/proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
 https://t.me/proxy?server=r.vkgosuslugi.ru&port=443&secret=eed2e6a93f2e3a5a07911966a4fb6f5a2777622e7275
+https://t.me/proxy?server=pvnexus.xyz&port=443&secret=eed68360458af63073bac1394e8c7a48da70766e657875732e78797a
 https://t.me/proxy?server=pugoholic.ydns.eu&port=9443&secret=6a08a96f53b99a7e517a2c5cb46468be
 https://t.me/proxy?server=prxtg.enterlancevpn.com&port=8443&secret=ee79612e7275c8d582e6565ef8a46786
 https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
