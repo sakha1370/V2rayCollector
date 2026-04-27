@@ -29,6 +29,7 @@ https://t.me/proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee21112222333344
 https://t.me/proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c89eb5a3c83954ce69
 https://t.me/proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69
 https://t.me/proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
+https://t.me/proxy?server=freeon.name&port=443&secret=dded1a5a7f339b8ff9840d52df12382970
 https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=free-germany2.kimt.space&port=443&secret=ee927123552f30f69883d9d62d16382d66667265652d6765726d616e79322e6b696d742e7370616365
 https://t.me/proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
@@ -49,6 +50,7 @@ https://t.me/proxy?server=94.101.191.94&port=23&secret=11f16e2bd303b176a2195b224
 https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9
 https://t.me/proxy?server=91.223.116.247&port=443&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=91.201.115.92&port=9443&secret=ee44160044160044004416044160004416646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000
+https://t.me/proxy?server=91.108.248.229&port=443&secret=eec16575954a98f1f3277fc329ec45a75279616e6465782e7275
 https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=87.106.137.212&port=21212&secret=312b91cf4831abf49809466752b9c364
 https://t.me/proxy?server=78.158.166.203&port=443&secret=dd48338747d12f6da0237708ce219e8a81
