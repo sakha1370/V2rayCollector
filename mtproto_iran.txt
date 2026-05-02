@@ -8,7 +8,6 @@ https://t.me/proxy?server=tgtgtg.net&port=8443&secret=eeccda9f95738b3be05c9f37fd
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee34103785f92b58549310adb46f79a87f7377656b697474792e677269747479746172616e74756c612e736273
 https://t.me/proxy?server=stay.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
-https://t.me/proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=pugoholic.ydns.eu&port=9443&secret=6a08a96f53b99a7e517a2c5cb46468be
 https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
@@ -20,7 +19,6 @@ https://t.me/proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c688836
 https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=proxy.datamtdatafemida.club&port=443&secret=ee353f27c43bad4054b23f2837b80c87277777772e676f6f676c652e636f6d
 https://t.me/proxy?server=proxy-736c1fe7b74e01ae.proxytg.ink&port=443&secret=eef6fe059664c24962c99fbcc32553249e70726f787974672e696e6b
-https://t.me/proxy?server=open.smartrix-check.sbs&port=443&secret=ee3c8aca6230c6c86af97f897dd8c6fa046f70656e2e736d6172747269782d636865636b2e736273
 https://t.me/proxy?server=nid2904.mtproxygram.lol&port=443&secret=ee51b8a119e0b003066431e2507959b8f762726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=mirror2.blockdiscord.ru&port=443&secret=ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275
@@ -28,10 +26,8 @@ https://t.me/proxy?server=microscopic.tk&port=443&secret=eec2a79791ba81f4ab0927c
 https://t.me/proxy?server=mash.drproxy.pro&port=443&secret=dda5a7b5711e648c7bd534e4e87de2241b
 https://t.me/proxy?server=jxhwr55p.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=jxhswdsh.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=he.de-nu.7.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=grin-idle.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c89eb5a3c83954ce69
-https://t.me/proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69
 https://t.me/proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=furrow.goitrous.inefficacy.kaunas.unaided.pinoyteleseryehd.net&port=8950&secret=ee9c5c58f91ce1bb198dcc68037ea465
 https://t.me/proxy?server=freeon.name&port=443&secret=dded1a5a7f339b8ff9840d52df12382970
