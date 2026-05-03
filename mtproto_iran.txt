@@ -20,6 +20,7 @@ https://t.me/proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c688836
 https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=proxy.datamtdatafemida.club&port=443&secret=ee353f27c43bad4054b23f2837b80c87277777772e676f6f676c652e636f6d
 https://t.me/proxy?server=proxy-736c1fe7b74e01ae.proxytg.ink&port=443&secret=eef6fe059664c24962c99fbcc32553249e70726f787974672e696e6b
+https://t.me/proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=nid2904.mtproxygram.lol&port=443&secret=ee51b8a119e0b003066431e2507959b8f762726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342
 https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
@@ -118,6 +119,7 @@ https://t.me/proxy?server=195.254.165.201&port=4455&secret=ee1603010200010001fc0
 https://t.me/proxy?server=195.254.165.151&port=4455&secret=ee1603010200010001fc030386e24c3add626973
 https://t.me/proxy?server=194.87.54.153&port=443&secret=ee926e602ac59a4b6f2ecf368c157fa4ce636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=185.3.200.30&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=185.255.91.175&port=443&secret=ee30f47ae7f72ad55c9de4786ebb22525d73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=185.255.91.175&port=443&secret=ee0216b5ddb39dad5d9201489c2b517e4273332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=185.221.219.206&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338
