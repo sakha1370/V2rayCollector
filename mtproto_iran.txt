@@ -100,6 +100,7 @@ https://t.me/proxy?server=45.65.113.209&port=9443&secret=ee441600441600440044160
 https://t.me/proxy?server=38.244.194.129&port=443&secret=ee105b4c7698aedbb55f291968ad2439d4647a656e2e7275
 https://t.me/proxy?server=37.60.235.215&port=443&secret=3239b9584682c88d13fe56aa99c71ba6
 https://t.me/proxy?server=31.220.72.60&port=443&secret=ee399a6e8dbe6399816eba10c0fa78609d636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=2LOPV.MTP.IPSENTER.NET&port=443&secret=ee0542956a5740469dab630e9114a6419c676f6f676c652e636f6d
 https://t.me/proxy?server=213.233.184.133&port=443&secret=ee7bc0e175a4b8ffef72a2caec6e22c3d57777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=213.233.184.133&port=443&secret=ee3d212b624aff427b01ec1aa0d9c8c0f87777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=213.183.54.117&port=443&secret=443ca99f90b8e0c112b063205a7b4dc2
