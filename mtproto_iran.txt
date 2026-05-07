@@ -52,6 +52,7 @@ https://t.me/proxy?server=furrow.goitrous.inefficacy.kaunas.unaided.pinoyteleser
 https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=free-germany.kimt.space&port=443&secret=ee7b7ef45d40766b5b5f494f801f53af40667265652d6765726d616e792e6b696d742e7370616365
 https://t.me/proxy?server=focus-ultimate.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+https://t.me/proxy?server=deltavpn1bot.deltamarket5.ir&port=8443&secret=dd8013a8fc815b05f1d9da361ec6dc4b4b
 https://t.me/proxy?server=delist.fictile.judgeship.prescribing.recloser.umorina.info&port=36167&secret=eec1e93aa1bcb004d184015832673e45a9647a656e2e7275
 https://t.me/proxy?server=cover-acid.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
@@ -134,6 +135,7 @@ https://t.me/proxy?server=213.233.184.133&port=8443&secret=dd3d212b624aff427b01e
 https://t.me/proxy?server=213.233.184.133&port=8443&secret=dd3b54584a0135f19594825070bb1450d0
 https://t.me/proxy?server=213.233.184.133&port=443&secret=ee7bc0e175a4b8ffef72a2caec6e22c3d57777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=213.233.184.133&port=443&secret=ee3d212b624aff427b01ec1aa0d9c8c0f87777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=209.127.228.162&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 https://t.me/proxy?server=204.168.238.0&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 https://t.me/proxy?server=204.168.231.128&port=8732&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=2.26.54.198&port=443&secret=ee0e3ff9a7d97b2b1e1473aa77626562
