@@ -57,12 +57,14 @@ https://t.me/proxy?server=bin.mdnk.fun&port=443&secret=ee528a8923aaf3441d3a3652b
 https://t.me/proxy?server=believe-gravity.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e657
 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574
+https://t.me/proxy?server=b.similemat.com&port=2443&secret=5467af21db9f8a03a7786dd43d4d7c45
 https://t.me/proxy?server=UpTime.ChMTP.Info&port=88&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
 https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
 https://t.me/proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=95.217.28.246&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=94.237.47.158&port=443&secret=dd8dd8cc4e02625114d308dac05094c3c0
 https://t.me/proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275
 https://t.me/proxy?server=94.183.177.239&port=433&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275
 https://t.me/proxy?server=94.183.177.201&port=443&secret=dd4dfae341b3dba1516cd9cfea3196f6ed
@@ -101,6 +103,7 @@ https://t.me/proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac51913
 https://t.me/proxy?server=64.188.65.136&port=443&secret=eec11798ab008831b474066c9e1ebf5c997777772e78352e7275
 https://t.me/proxy?server=62.84.97.63&port=443&secret=ee1603010200010001fc030386e24c3add63646d5d79656b74616e65742e636f6d2d646c2e676f6f676c652e636f6d4d666172616B61762E636F6D3d160301020001000100010001000100010001000100010001
 https://t.me/proxy?server=62.3.12.2&port=8444&secret=ee6f7a6f6e2e7275f22c5421fa893965
+https://t.me/proxy?server=62.238.27.70&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5hu7-up-4nd-sell-me-mor3-th353-chocol47e5.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=51.250.64.161&port=443&secret=4e43ae171d135959078c3ea87a0fcd38
