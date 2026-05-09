@@ -125,6 +125,7 @@ https://t.me/proxy?server=2LOPV.MTP.IPSENTER.NET&port=443&secret=ee0542956a57404
 https://t.me/proxy?server=2407:d140:1:100:9000:9000:9cfd:d902&port=57505&secret=b00ee480c30e137d195f32b13fcb4cbb
 https://t.me/proxy?server=213.233.184.133&port=8443&secret=dd3d212b624aff427b01ec1aa0d9c8c0f8
 https://t.me/proxy?server=213.233.184.133&port=8443&secret=dd3b54584a0135f19594825070bb1450d0
+https://t.me/proxy?server=213.233.184.133&port=6777&secret=dd3b54584a0135f19594825070bb1450d0
 https://t.me/proxy?server=213.233.184.133&port=443&secret=ee7bc0e175a4b8ffef72a2caec6e22c3d57777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=213.233.184.133&port=443&secret=ee3d212b624aff427b01ec1aa0d9c8c0f87777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=209.127.228.162&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
@@ -142,8 +143,8 @@ https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac5
 https://t.me/proxy?server=194.50.94.98&port=443&secret=ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275
 https://t.me/proxy?server=185.3.200.30&port=65535&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=185.255.91.175&port=443&secret=ee30f47ae7f72ad55c9de4786ebb22525d73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338
 https://t.me/proxy?server=178.104.98.160&port=443&secret=ee636c6f7564666c6172652e636f6db6
+https://t.me/proxy?server=178.104.81.34&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.104.72.162&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=172.234.115.238&port=443&secret=3a3365be03d6bc13518d65e70a3146c2
 https://t.me/proxy?server=167.235.187.32&port=443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
