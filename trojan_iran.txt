@@ -251,7 +251,6 @@ trojan://dgEPeFcXcS@94.101.191.194:8443?type=xhttp&path=%2Fraikastudiogilan&host
 trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@usrna.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#@Vip_Security join us - 21
 trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#@Vip_Security join us - 20
 trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#@Vip_Security join us - 19
-trojan://cTTwPmrJmP@snapp.ir:8080/?type=ws&path=%2Fwebpath&host=afe6h9hg.tradexcange.ir&security=none#@Vip_Security join us - 2
 trojan://c27f86e381ba4901aae3d703e17bd274@51.250.7.178:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&sid=aabbccdd#@Vip_Security join us - 11
 trojan://bpb-trojan@www.speedtest.net:443?sni=10-bpb-wORkER-paNel.pAGEs.DeV&peer=10-bpb-wORkER-paNel.pAGEs.DeV&security=tls#@Vip_Security join us - 7
 trojan://bpb-trojan@www.speedtest.net:443?sni=10-bpb-wORkER-paNel.pAGEs.DeV&peer=10-bpb-wORkER-paNel.pAGEs.DeV&security=tls#@Vip_Security join us - 6
