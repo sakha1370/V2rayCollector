@@ -2,13 +2,11 @@ https://t.me/proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf671
 https://t.me/proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=vpn.wemakecode.ru&port=9443&secret=fe0713355da8737fb5f7b09d9cddb1e4
 https://t.me/proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be088e857f66669727374627974652e7275
-https://t.me/proxy?server=try.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=tpr.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 https://t.me/proxy?server=total.beyondeson-co.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=tgobhod.forum&port=443&secret=ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=test.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa27786170692e6f7a6f6e2e727527
-https://t.me/proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee3730ca5b692dc64af181a706bcc5cabc7377656b69747479322e677269747479746172616e74756c612e736273
 https://t.me/proxy?server=swe-1.vespersubpage.tech&port=443&secret=ee503ff7a4c00ebb5fe94b58c1a418e16f706574726f766963682e7275
 https://t.me/proxy?server=super.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=stay.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
@@ -25,7 +23,6 @@ https://t.me/proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031
 https://t.me/proxy?server=owner-explain.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7381d5d361657a612e7275
 https://t.me/proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-https://t.me/proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342
 https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 https://t.me/proxy?server=mtp.fsoc-app.online&port=853&secret=ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65
 https://t.me/proxy?server=microscopic.tk&port=443&secret=eec2a79791ba81f4ab0927c818ea2ffb
@@ -82,7 +79,6 @@ https://t.me/proxy?server=89.125.113.10&port=443&secret=ee700a15adb4cca8106fe1e0
 https://t.me/proxy?server=87.99.156.54&port=443&secret=dd00112233445566778899aabbccddeeff
 https://t.me/proxy?server=87.248.132.34&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265
 https://t.me/proxy?server=87.106.137.212&port=443&secret=a1b2c3d4e5f60123456789abcdef0123
-https://t.me/proxy?server=85.155.96.36&port=443&secret=487b79ac7493db465c8f124fcc70aade
 https://t.me/proxy?server=84.75.202.32&port=6137&secret=ddb00ee480c30e137d195f32b13fcb4cbb
 https://t.me/proxy?server=84.75.202.32&port=38689&secret=ddf1b4034548a1f8c79bd25aacde5e8794
 https://t.me/proxy?server=80.157.104.111&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
@@ -97,7 +93,6 @@ https://t.me/proxy?server=64.188.65.136&port=443&secret=eec11798ab008831b474066c
 https://t.me/proxy?server=62.3.12.2&port=8444&secret=ee6f7a6f6e2e7275f22c5421fa893965
 https://t.me/proxy?server=62.238.27.70&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=51.250.64.161&port=443&secret=4e43ae171d135959078c3ea87a0fcd38
 https://t.me/proxy?server=50.7.41.162&port=443&secret=ee011808bcccfd224644ca7f231846a7d46d61782e7275
 https://t.me/proxy?server=50.7.156.50&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=50.7.127.174&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
