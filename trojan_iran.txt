@@ -267,6 +267,7 @@ trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?sni=HL-FREEDOM-1.UNDEF.NET
 trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?sni=HL-FREEDOM-1.UNDEF.NETWORK#@Vip_Security join us - 12
 trojan://IhLV5UtHu0@www.visa.com.sg:2087?sni=welfare-2.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-2.yycx.eu.org#@Vip_Security join us - 6
 trojan://IhLV5UtHu0@www.visa.com.sg:2087?sni=welfare-2.yycx.eu.org&allowInsecure=1&type=ws&path=%2F&host=welfare-2.yycx.eu.org#@Vip_Security join us - 13
+trojan://Hm3sXTHDAs@snapp.ir:80?type=ws&path=%2Fwikipediad&host=dtspace.mastershance.ir&security=none#@Vip_Security join us - 1
 trojan://GP-MnpOCSXOTH_pFntTEIg@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#@Vip_Security join us - 5
 trojan://G6ke50png7aG-ad593_Fpg@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#@Vip_Security join us - 14
 trojan://BxceQaOe@bb.bejkn.cn:6463?allowInsecure=1&sni=t.me%252Fripaojiedian#@Vip_Security join us - 2
