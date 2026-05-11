@@ -1,6 +1,6 @@
-https://t.me/proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf6712254678726d8477622e7275
 https://t.me/proxy?server=www.ipify.icu.&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
+https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=vpn.wemakecode.ru&port=9443&secret=fe0713355da8737fb5f7b09d9cddb1e4
 https://t.me/proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be088e857f66669727374627974652e7275
 https://t.me/proxy?server=tpr.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
@@ -106,12 +106,10 @@ https://t.me/proxy?server=5.75.212.36&port=7070&secret=ee1603010200010001fc03038
 https://t.me/proxy?server=5.75.208.208&port=443&secret=ee7e7c46e94af7b93c9acd8f233ab8e38973706565642e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=46.225.29.180&port=443&secret=ee636c6f7564666c6172652e636f6db6
 https://t.me/proxy?server=31.47.51.111&port=80&secret=0feeb488ea1f4a9b741a145bc00d3004
-https://t.me/proxy?server=2LOPV.MTP.IPSENTER.NET&port=443&secret=ee0542956a5740469dab630e9114a6419c676f6f676c652e636f6d
 https://t.me/proxy?server=2407:d140:1:100:9000:9000:9cfd:d902&port=57505&secret=b00ee480c30e137d195f32b13fcb4cbb
 https://t.me/proxy?server=213.233.184.133&port=8443&secret=dd3d212b624aff427b01ec1aa0d9c8c0f8
 https://t.me/proxy?server=213.233.184.133&port=8443&secret=dd3b54584a0135f19594825070bb1450d0
 https://t.me/proxy?server=213.233.184.133&port=6777&secret=dd3b54584a0135f19594825070bb1450d0
-https://t.me/proxy?server=213.233.184.133&port=443&secret=ee7bc0e175a4b8ffef72a2caec6e22c3d57777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=209.127.228.162&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 https://t.me/proxy?server=204.168.153.162&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=2.27.59.225&port=443&secret=eebe232d8569992025370b3fd21684a9576c696e6b2e6d61782e7275
