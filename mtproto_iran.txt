@@ -64,9 +64,7 @@ https://t.me/proxy?server=QHMEI.MTP.IPSENTER.NET&port=443&secret=eee28b56c84fb54
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
 https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
-https://t.me/proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=94.237.47.158&port=443&secret=dd8dd8cc4e02625114d308dac05094c3c0
-https://t.me/proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275
 https://t.me/proxy?server=94.183.177.239&port=433&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275
 https://t.me/proxy?server=94.183.177.201&port=443&secret=dd4dfae341b3dba1516cd9cfea3196f6ed
 https://t.me/proxy?server=94.101.191.94&port=4580&secret=6d087d0e01b54d2a50a78047a4a21d80
@@ -87,7 +85,6 @@ https://t.me/proxy?server=89.125.113.11&port=443&secret=ee4940b07f14b94037fd71a7
 https://t.me/proxy?server=89.125.113.10&port=443&secret=ee700a15adb4cca8106fe1e0ad0dd35ce879616e6465782e7275
 https://t.me/proxy?server=87.99.156.54&port=443&secret=dd00112233445566778899aabbccddeeff
 https://t.me/proxy?server=87.248.132.34&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265
-https://t.me/proxy?server=87.106.137.212&port=443&secret=a1b2c3d4e5f60123456789abcdef0123
 https://t.me/proxy?server=84.75.202.32&port=6137&secret=ddb00ee480c30e137d195f32b13fcb4cbb
 https://t.me/proxy?server=84.75.202.32&port=38689&secret=ddf1b4034548a1f8c79bd25aacde5e8794
 https://t.me/proxy?server=80.157.104.111&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
