@@ -449,7 +449,6 @@ trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@hkzoa.osaip.net:443?allowInsecure=
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?sni=CVFgTrE4.222560.XyZ&peer=CVFgTrE4.222560.XyZ&security=tls#@Vip_Security join us - 2
 trojan://1991@8.35.211.159:2087?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&security=tls#@Vip_Security join us - 2
 trojan://1991@8.35.211.159:2087?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&security=tls#@Vip_Security join us - 1
-trojan://1991@172.64.229.170:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.febeta9963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.febeta9963.workers.dev#@Vip_Security join us - 1
 trojan://1710442808@188.114.98.0:443?ed=2560&eh=Sec-WebSocket-Protocol&host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&type=ws#@Vip_Security join us - 1
 trojan://1710442808@188.114.98.0:443?allowInsecure=1&host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&type=ws#@Vip_Security join us - 2
 trojan://162534@64.176.42.143:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#@Vip_Security join us - 2
