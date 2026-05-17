@@ -238,6 +238,7 @@ trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calm
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@Vip_Security join us - 26
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@Vip_Security join us - 25
 trojan://humanity@188.114.96.3:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#@Vip_Security join us - 4
+trojan://humanity@188.114.96.3:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#@Vip_Security join us - 1
 trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#@Vip_Security join us - 7
 trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#@Vip_Security join us - 6
 trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#@Vip_Security join us - 28
