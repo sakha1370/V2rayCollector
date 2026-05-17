@@ -507,6 +507,7 @@ trojan://7ebc402f3383366fe4f554abd8625439@54.249.141.77:6604?allowInsecure=1&sni
 trojan://7aXwJPnpAJ@150.241.65.18:50824?sni=yespaintstudio.rav-kraski.ru#@Vip_Security join us - 1
 trojan://7575@173.245.59.243:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev&security=tls#@Vip_Security join us - 2
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#@Vip_Security join us - 2
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#@Vip_Security join us - 1
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#@Vip_Security join us - 1
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#@Vip_Security join us - 2
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#@Vip_Security join us - 2
