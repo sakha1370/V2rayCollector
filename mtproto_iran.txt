@@ -7,6 +7,7 @@ https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2
 https://t.me/proxy?server=vip.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=vfast.proxytg.space&port=443&secret=ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=try.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
+https://t.me/proxy?server=total.beyondeson-co.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=tg1.tgproxy1.fun&port=443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e
 https://t.me/proxy?server=tech.myrka.digital&port=478&secret=ee11242fdcff42d34341052711fff8ff9e746563682e6d79726b612e6469676974616c
@@ -50,6 +51,7 @@ https://t.me/proxy?server=hot.proxytg.space&port=443&secret=ee12ff13d128ef99c856
 https://t.me/proxy?server=goydamax.ru&port=443&secret=eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275
 https://t.me/proxy?server=gospodin.bronstein.ar&port=8443&secret=eed1665043b7c388a742aef2f0417d3b1b736f72676f2e6d79726b612e6469676974616c
 https://t.me/proxy?server=germany.tgproxysokol.pro&port=8443&secret=ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275
+https://t.me/proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=fn.b2-ray.ru&port=2233&secret=1a78cb0260dffe00aa646e398185a157
 https://t.me/proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
@@ -57,6 +59,7 @@ https://t.me/proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abc
 https://t.me/proxy?server=edge.myrka.digital&port=444&secret=ee4790e86954cff57415f0fb8e4c7d54977665726f69736f72676f2e6d79726b612e6469676974616c
 https://t.me/proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d
 https://t.me/proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=calcium-credit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=budge.pulsar.rest&port=443&secret=ee4cc750d4cf7b5762b6ca9949c778ef4162756467652e70756c7361722e72657374
 https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
