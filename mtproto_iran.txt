@@ -1,3 +1,4 @@
+https://t.me/proxy?server=zz.shanlian.app&port=20370&secret=ee37dad64064da8fb4f34896a69106e848617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=yotaphone.chickenkiller.com&port=443&secret=eec8dd976cc2b8ee6736e600db719391f264726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
 https://t.me/proxy?server=xn--80agb2axz5d.xn--80ajveggb2e.xn--p1ai&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
@@ -129,13 +130,12 @@ https://t.me/proxy?server=208.115.202.55&port=443&secret=ee1603010200010001fc030
 https://t.me/proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=204.168.131.220&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=204.168.129.90&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=2001:b030:112d:711:10fd::&port=25144&secret=ee37dad64064da8fb4f34896a69106e848617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=2.26.91.70&port=8443&secret=eedd345afe9188a4e5a94dc706e1aa6cef6170692d6d6170732e79616e6465782e7275
 https://t.me/proxy?server=2.26.74.135&port=443&secret=eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665
 https://t.me/proxy?server=2.26.126.153&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.208&port=9443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000
 https://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09
