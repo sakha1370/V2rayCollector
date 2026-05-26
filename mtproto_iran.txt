@@ -14,6 +14,7 @@ https://t.me/proxy?server=v8.yuyan.one&port=54587&secret=eedfa6e704a63eab155527a
 https://t.me/proxy?server=v8.yuyan.one&port=27268&secret=eedfa6e704a63eab155527a6358269e92a7777772e62696e672e636f6d
 https://t.me/proxy?server=v8.yuyan.one&port=12833&secret=eedfa6e704a63eab155527a6358269e92a7777772e62696e672e636f6d
 https://t.me/proxy?server=try.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
+https://t.me/proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=tgnl.klymra.online&port=443&secret=eefa19e6d66e3ca28f362a419602c7b02d7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=tg5.656c797369756d.app&port=8888&secret=ee6cb451efb8f357733feda81aa8e8066c72752d6d736b332e6170692e6d696e65756e696f6e2e6e6574
@@ -157,6 +158,7 @@ https://t.me/proxy?server=2001:b030:112d:711:10fd::&port=40861&secret=dd2fac8bac
 https://t.me/proxy?server=2001:b030:112d:711:10fd::&port=25144&secret=ee37dad64064da8fb4f34896a69106e848617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=2.26.86.207&port=8443&secret=7d805a0e2fcc89a731277cd098634fcc
 https://t.me/proxy?server=2.26.255.73&port=443&secret=eeab03f51ca82ec9e172a5eba3b169f6cd7777772e77702e706c
+https://t.me/proxy?server=195.62.32.87&port=25565&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09
