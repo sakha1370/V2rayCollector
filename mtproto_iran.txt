@@ -91,6 +91,7 @@ https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574
 https://t.me/proxy?server=babs.proxytg.space&port=443&secret=ee7e0cfbf200d8528bccf91edc951c72a46d61782e7275
 https://t.me/proxy?server=artt.proxytg.space&port=443&secret=ee859265446d8bb72e53291612281d57e26d61782e7275
+https://t.me/proxy?server=arezoni6.ir&port=15&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D
 https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54
 https://t.me/proxy?server=alive.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=a.artishchev.org&port=8443&secret=963a7fd525b04c4533ce776c9bd70f34
@@ -193,6 +194,7 @@ https://t.me/proxy?server=2001:b030:112d:711:10fd::&port=40861&secret=dd2fac8bac
 https://t.me/proxy?server=2.27.12.116&port=443&secret=ee19130c695cf699d93f5a31ecf380d4426d742e736b6f746f62617a2e7275
 https://t.me/proxy?server=2.26.86.207&port=8443&secret=7d805a0e2fcc89a731277cd098634fcc
 https://t.me/proxy?server=2.26.255.73&port=443&secret=eeab03f51ca82ec9e172a5eba3b169f6cd7777772e77702e706c
+https://t.me/proxy?server=2.26.119.17&port=443&secret=6e75f9f5821fef846ac11eec9eea1d17
 https://t.me/proxy?server=199.247.21.45&port=8991&secret=f41d30c2e0ca3895ca053b26d98af5b3
 https://t.me/proxy?server=195.62.32.87&port=25565&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.4&port=8443&secret=104462821249bd7ac519130220c25d09
