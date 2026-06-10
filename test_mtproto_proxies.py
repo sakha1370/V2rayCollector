@@ -259,8 +259,8 @@ def main():
     # Input and output file paths
     input_file = 'mtproto_iran.txt'
     output_file = 'active_mtproto_proxies.txt'
-    timeout = 10  # seconds
-    max_workers = 10  # Number of concurrent tests
+    timeout = 120  # seconds
+    max_workers = 120  # Number of concurrent tests
 
     # Check if input file exists
     if not os.path.exists(input_file):
