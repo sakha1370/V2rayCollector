@@ -33,13 +33,13 @@ jobs:
 
     - name: Build and run Golang file
       run: |
-          go build -o myapp
-          ./myapp -sort
+        go build -o myapp
+        ./myapp -sort
 
-      - name: Deduplicate MTProto proxies
-        run: |
-          python3 dedup_mtproto_file.py
-    
+    - name: Deduplicate MTProto proxies
+      run: |
+        python3 dedup_mtproto_file.py
+
     - name: Commit Changes
       run: |
         git config --local user.email "actions@github.com"
@@ -47,7 +47,8 @@ jobs:
         git pull origin main
         git add .
         git checkout main
-        git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Collected"
+        git diff --staged --quiet || git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Collected"
+
     - name: Push Changes
       uses: ad-m/github-push-action@master
       with:
