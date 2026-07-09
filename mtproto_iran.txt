@@ -85,6 +85,7 @@ https://t.me/proxy?server=proxy15.arixo.shop&port=443&secret=ee5669d9005f2b50ed4
 https://t.me/proxy?server=proxy.subs-sosavpn.ru&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69
 https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=proxy.fast-download.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=primmum.cd-download.ir&port=8443&secret=eec680167047bb1bbf94cb423ebb9025767777772e73616d73756e672e636f6d
 https://t.me/proxy?server=pp7p11837687790.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=portal.malevich7.top&port=443&secret=ee485df0201883028a6eb46b55fd937b4f706f7274616c2e6d616c6576696368372e746f70
 https://t.me/proxy?server=portal.balalaika.click&port=443&secret=eefcbdb65a11b00bbfbbd9de6fb0b17099706f7274616c2e62616c616c61696b612e636c69636b
