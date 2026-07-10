@@ -58,6 +58,7 @@ https://t.me/proxy?server=so-cpu.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994
 https://t.me/proxy?server=six.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=should.be.wake.up.ir.yfdhjderkig.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=server.mizbanonline.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=semiconductor.ap-author.ghoostbusters.ir&port=443&secret=ee1603010200010001fc030386e24c3add61702d617574686f722e73656d69636f6e647563746f722e73616d73756e672e636f6d
 https://t.me/proxy?server=see.bein-norway.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=see.bein-norway.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=secure.gorbushkin.click&port=443&secret=eee90419f865de23f95a859171396bc3d47365637572652e676f72627573686b696e2e636c69636b
@@ -473,6 +474,7 @@ https://t.me/proxy?server=5.75.210.233&port=8443&secret=dd104462821249bd7ac51913
 https://t.me/proxy?server=5.75.172.150&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.155.1&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=5.178.96.141&port=443&secret=ee2d8fd874cbcaf56cb4d3f57788efd6cc7777772e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=4ad666e5.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
 https://t.me/proxy?server=49.13.32.73&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.32.3&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.0.226&port=8443&secret=dd104462821249bd7ac519130220c25d09
