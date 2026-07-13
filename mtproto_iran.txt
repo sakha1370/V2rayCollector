@@ -628,6 +628,7 @@ https://t.me/proxy?server=135.181.66.68&port=8443&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=135.125.246.240&port=443&secret=dd5dd070a697cc274492c1506eff422f33
 https://t.me/proxy?server=135.125.136.59&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=128.140.124.152&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=116611.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=116.203.252.29&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=116.203.18.188&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=116.203.107.255&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -641,6 +642,7 @@ https://t.me/proxy?server=108.181.126.90&port=8585&secret=ee1603010200010001fc03
 https://t.me/proxy?server=108.181.122.255&port=443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=1.vak1l.ir&port=22&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=1.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add
+https://t.me/proxy?server=1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=1.Behtarin.tk&port=80&secret=dd16ee854211b3553d474f42055e0c10ad
 https://t.me/proxy?server=0plnv.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=087.248.129.253&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
