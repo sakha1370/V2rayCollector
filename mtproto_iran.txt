@@ -53,6 +53,7 @@ https://t.me/proxy?server=stay.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb
 https://t.me/proxy?server=static.prxtoday.store&port=443&secret=ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265
 https://t.me/proxy?server=starservers.ir&port=443&secret=ee6096b61e253810e5feea1b0d5f7a3098626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=sorza.info&port=443&secret=ee3ed0929f7d2990d9bb994224076375037765622e62616c652e6169
+https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soft1.cd-download.ir&port=8443&secret=ee0ff4ee44f7326ab5afc39f929c154a237562756e74752e636f6d
 https://t.me/proxy?server=so-cpu.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
@@ -181,6 +182,7 @@ https://t.me/proxy?server=iranian-cheetah.ir.the-nice-mtproto.info&port=88&secre
 https://t.me/proxy?server=irancell-mci.ir.gybshdjls.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=iran.protocolsix.info.&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=iran.protocolsix.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=iran.mother.ir.jetish.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=ipv6.ssh-sec.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=inbout.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=imtproxy-ir.quest.37-68-174.ir.&port=8443&secret=ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
@@ -213,6 +215,7 @@ https://t.me/proxy?server=gate.soluqent.pro&port=443&secret=eed66f4a5efedfdb0b2a
 https://t.me/proxy?server=gallery.najvayedel6.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=fosfor.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=football.world-pro.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
@@ -271,6 +274,7 @@ https://t.me/proxy?server=blue.golgoli2.co.uk&port=443&secret=ee1603010200010001
 https://t.me/proxy?server=blue.golgoli2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 https://t.me/proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=best-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=best-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=belotfelipo.larilarilaylay.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=believeme.pi.ireallyneedu.shop&port=2222&secret=ee6fc4214791e37bedba18d041742d90047777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e657
@@ -582,6 +586,7 @@ https://t.me/proxy?server=188.245.252.34&port=8443&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=185.23.19.7&port=443&secret=61df1273266dd9a8f1d0b5785bd83d90
 https://t.me/proxy?server=185.229.190.76&port=443&secret=eef5cc733ffc8467e846448135776eafd573332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=185.221.219.206&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
+https://t.me/proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338
 https://t.me/proxy?server=178.215.239.64&port=443&secret=ee7a35d73fce1fbc80fecc03b4cd32e6177777772e77702e706c
 https://t.me/proxy?server=178.105.50.21&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.104.94.101&port=8443&secret=ee6321a38187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
