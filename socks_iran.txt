@@ -1,5 +1,0 @@
-socks5://socks5:socks5@8.210.36.147:5555@Vip_Security join us - 5
-socks5://proxy:proxy@193.188.21.202:1080@Vip_Security join us - 4
-socks5://2222:2222@43.100.106.247:2222@Vip_Security join us - 3
-socks5://2222:2222@43.100.106.226:2222@Vip_Security join us - 2
-socks5://123:123@8.218.165.212:3060@Vip_Security join us - 1
