@@ -290,6 +290,7 @@ https://t.me/proxy?server=awli.ir.meli-n13.info&port=8443&secret=104462821249bd7
 https://t.me/proxy?server=atashbas-bargharar.softnetconnect.uk&port=8443&secret=eeb3edc01cd4db2daf7726fec80cf36e517777772e73616d73756e672e636f6d
 https://t.me/proxy?server=assets.prx.today&port=443&secret=ee595ef26a3a0072f97dadb2be7007dbac6173736574732e7072782e746f646179
 https://t.me/proxy?server=api.prxtoday.store&port=443&secret=ee1fed31d4c3ce8255aedc8c4c14a36f536170692e707278746f6461792e73746f7265
+https://t.me/proxy?server=api.groundfloorsolutions.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 https://t.me/proxy?server=api-v1.thexway.click&port=443&secret=ddf5cc733ffc8467e846448135776eafd5
 https://t.me/proxy?server=apex.proxytop.space&port=443&secret=ee05d3d7463edfb7a674cc1d89ba24eeba617065782e70726f7879746f702e7370616365
 https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09
