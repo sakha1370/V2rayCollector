@@ -82,7 +82,6 @@ https://t.me/proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001f
 https://t.me/proxy?server=caseous.introscope.shammer.teleseryestvheaven.com&port=443&secret=eee8c448cb6decfd0a71d0a471af73ffd8647a656e2e7275
 https://t.me/proxy?server=ca.rogers.glowveil.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=bucket.kimt.space&port=443&secret=eec45677ff825bbeaa08866650a4e9ed417777772e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=br8ta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=box.lavazemi5.co.uk&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 https://t.me/proxy?server=book.malavanann.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
@@ -122,7 +121,6 @@ https://t.me/proxy?server=91.98.109.162&port=8443&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=91.229.90.210&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=91.201.115.92&port=9443&secret=ee44160044160044004416044160004416646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000
 https://t.me/proxy?server=91.107.160.196&port=443&secret=dd79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=91.107.158.87&port=443&secret=eedecd315ee462c57abd61fa680729a4d9626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=88.99.175.27&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=87.248.129.7&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 https://t.me/proxy?server=87.248.129.53&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
