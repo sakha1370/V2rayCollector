@@ -117,6 +117,7 @@ https://t.me/proxy?server=BEST.FOR-ALL.TK&port=443&secret=dd540e3ca27f4612b1e2bd
 https://t.me/proxy?server=95.217.244.239&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=95.217.244.189&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=94.237.76.119&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=912713.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.150.148&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=89.36.95.42&port=9443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=89.36.95.30&port=8080&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
