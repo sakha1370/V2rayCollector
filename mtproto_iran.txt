@@ -137,6 +137,7 @@ https://t.me/proxy?server=abcd.server2-5mk.info&port=443&secret=ee16030102000100
 https://t.me/proxy?server=WWW.05kids.ir.&port=8443&secret=ee6321a38187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=ProxyTunnel.strangled.net&port=443&secret=ee4772827e920fc13e1fd29c7ccda1a459
 https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
@@ -147,6 +148,7 @@ https://t.me/proxy?server=Best.For-All.tk&port=443&secret=dd540e3ca27f4612b1e2bd
 https://t.me/proxy?server=BEST.FOR-ALL.TK&port=443&secret=dd540e3ca27f4612b1e2bdf1229e0a9c63
 https://t.me/proxy?server=95.217.193.223&port=443&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=94.237.76.119&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7ccda1a459
 https://t.me/proxy?server=91.201.115.92&port=9443&secret=ee44160044160044004416044160004416646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000
 https://t.me/proxy?server=8f3d1c4e-a9b2-475c-8e1f-2d6a9b4c7e3f.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=89.36.95.13&port=9443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
