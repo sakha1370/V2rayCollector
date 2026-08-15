@@ -31,7 +31,6 @@ https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7
 https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=sherek.mashgh.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=sherek.mashgh.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
-https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=seems.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
@@ -137,7 +136,6 @@ https://t.me/proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495
 https://t.me/proxy?server=6ygr7fhdxx00777new7fh7hhh7tvuh8uh8iix001m1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.21.205.41&port=443&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=65.109.218.172&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=65.109.187.240&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=62ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.9.203.240&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d
 https://t.me/proxy?server=4x.proto.mnbtm.li&port=2033&secret=dd104462821249bd7ac519130220c25d09
