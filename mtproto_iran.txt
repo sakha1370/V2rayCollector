@@ -155,6 +155,7 @@ https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104
 https://t.me/proxy?server=3.35.207.242&port=8443&secret=dd8802d710847a3e6f3b964244eb872902
 https://t.me/proxy?server=2dddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=2ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=209.127.228.162&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 https://t.me/proxy?server=2.28.8.117&port=466&secret=ee0ad19568cbe272a158b760677e605ac4706c61792e676f6f676c652e636f6d
 https://t.me/proxy?server=2.28.8.117&port=465&secret=eea09ee75ebf320c97bc54fa28475c893a706c61792e676f6f676c652e636f6d
 https://t.me/proxy?server=2.28.8.117&port=463&secret=eec4158978d527e726bc7464e1d23f8341706c61792e676f6f676c652e636f6d
