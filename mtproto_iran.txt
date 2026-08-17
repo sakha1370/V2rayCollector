@@ -100,6 +100,7 @@ https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897
 https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7ccda1a459
+https://t.me/proxy?server=8j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=89.167.48.67&port=443&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=87.248.129.221&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=78.128-273-66.ir.&port=8443&secret=ee104462821249bd7ac519130220c25d09626973636f7474692e79656b74616e65742e636f6d
