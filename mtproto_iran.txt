@@ -115,7 +115,6 @@ https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7
 https://t.me/proxy?server=91.107.170.251&port=8443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=8j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=89.36.95.13&port=9443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
-https://t.me/proxy?server=89.167.48.67&port=443&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=87.248.129.7&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 https://t.me/proxy?server=87.232.123.169&port=443&secret=eee9ee27fd9105e43a115dd1bcdb3340737477697463682e7476
 https://t.me/proxy?server=85.155.96.25&port=443&secret=eeb611c4a66d9dcc85465c781aec33ed6379616e6465782e7275
