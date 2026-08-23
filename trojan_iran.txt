@@ -303,6 +303,7 @@ trojan://arg3vzv1-5ez7-bp5q-p88l-7v170oz1433p@127.0.0.1:2080?security=tls&type=t
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755?allowInsecure=1&sni=vpn-node.internal&alpn=http/1.1&type=ws&path=/xVpnTrojanWsSvc7f3a#@Vip_Security join us - 64
 trojan://ZJU29smXwp@cf2.danesh-bonyan.store:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid1.teama.tk#@Vip_Security join us - 8
 trojan://ZJU29smXwp@cf1.teama.tk:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#@Vip_Security join us - 7
+trojan://ZJU29smXwp@cf1.my-cf.online:2053?path=%2F&security=tls&host=f-1.danesh-bonyan.store&type=ws&sni=damn-mci-again-3.danesh-bonyan.Store#@Vip_Security join us - 2
 trojan://ZJU29smXwp@cf1.danesh-bonyan.store:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid2.teama.tk#@Vip_Security join us - 6
 trojan://ZJU29smXwp@cf1.danesh-bonyan.store:2053?path=%2F&security=tls&host=f-1.danesh-bonyan.store&type=ws&sni=damn-mci-again-3.danesh-bonyan.store#@Vip_Security join us - 5
 trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#@Vip_Security join us - 4
