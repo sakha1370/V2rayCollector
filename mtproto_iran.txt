@@ -15,6 +15,7 @@ https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd
 https://t.me/proxy?server=ultra.transiiantanialnmiomana.info&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D
 https://t.me/proxy?server=try.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
+https://t.me/proxy?server=tavalodtavalod.tavalodet-mobarak.ir&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e616b616d61692e737465616d7374617469632e636f6d
 https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=table-o-dohol.ir.aghnia.info.&port=443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=syntax.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
@@ -189,6 +190,7 @@ https://t.me/proxy?server=151.244.42.7&port=85&secret=ee0000f00f0f775555fffffff5
 https://t.me/proxy?server=144.78-173-22-85.ir&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e616b616d61692e737465616d7374617469632e636f6d
 https://t.me/proxy?server=144.31.28.201&port=443&secret=ee554cd7b673ad82089160583d321a04db7777772e626f6f6b696e672e636f6d
 https://t.me/proxy?server=144.31.134.235&port=443&secret=f7a7d30a3a78dc160b43a8ed332477e1
+https://t.me/proxy?server=124.185-86-39-5.ir&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e616b616d61692e737465616d7374617469632e636f6d
 https://t.me/proxy?server=116.202.167.152&port=443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=108.181.126.90&port=8585&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000
 https://t.me/proxy?server=108.181.122.255&port=443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
