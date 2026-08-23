@@ -1477,17 +1477,6 @@ trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls#@Vip_Security j
 trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls#@Vip_Security join us - 13
 trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls#@Vip_Security join us - 10
 trojan://AE62539071@upright-bedbug.rooster465.autos:443#@Vip_Security join us - 9
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 9
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 8
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 6
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 4
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 3
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 22
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 20
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 2
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 18
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 1
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 1
 trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&path=%2f#@Vip_Security join us - 9
 trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 8
 trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#@Vip_Security join us - 4
