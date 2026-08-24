@@ -113,7 +113,6 @@ https://t.me/proxy?server=core.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed
 https://t.me/proxy?server=co.uk.zendrip.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 https://t.me/proxy?server=cdn5.cdnwave.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
-https://t.me/proxy?server=can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
 https://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=belotfelipo.larilarilaylay.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
@@ -200,7 +199,6 @@ https://t.me/proxy?server=185.204.171.178&port=443&secret=b66278a57abcbcb0ad9303
 https://t.me/proxy?server=178.104.34.88&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=176.98.182.60&port=7443&secret=ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267
 https://t.me/proxy?server=176.123.2.169&port=443&secret=ee2181b73902be15376b13b686c2883387
-https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=167.235.187.32&port=443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=167.235.186.110&port=443&secret=ee1603010200010001fc030386e24c3add63646E2E79656B74616E65742E636F6D
 https://t.me/proxy?server=167.233.250.101&port=8443&secret=dd104462821249bd7ac519130220c25d09
