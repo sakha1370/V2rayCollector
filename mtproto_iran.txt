@@ -36,6 +36,7 @@ https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd10446282
 https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=s44447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=relaywise.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=rain.lavazemi2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=proxy.freetg.su&port=443&secret=f7a7d30a3a78dc160b43a8ed332477e1
 https://t.me/proxy?server=proxy.awx.info&port=443&secret=eef8bf3435c7514288510de49a9c4a70d070726f78792e6177782e696e666f
@@ -47,6 +48,7 @@ https://t.me/proxy?server=opfks.ww.w.360r.ir&port=443&secret=dd79e7010200010007f
 https://t.me/proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
 https://t.me/proxy?server=nngo.cc.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=new.lambforkebeb.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
