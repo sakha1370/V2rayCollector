@@ -81,6 +81,7 @@ https://t.me/proxy?server=haji.biabala.co.uk&port=443&secret=ee1603010200010001f
 https://t.me/proxy?server=gold.chole.online&port=2087&secret=eecaaa54cd9d438de852dd101485367a137777772e6170706c652e636f6d
 https://t.me/proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 https://t.me/proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
 https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=focus-ultimate.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
