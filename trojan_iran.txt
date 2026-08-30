@@ -276,6 +276,7 @@ trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsIn
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#@Vip_Security join us - 1
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.79.73:443?type=ws&path=%2Fsg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome#@Vip_Security join us - 2
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.63.25:443?type=ws&path=%2Fsg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome#@Vip_Security join us - 1
+trojan://8JHppSLSIBA0PK%2CNx@104.21.41.49:2083?path=%2Ftr%2FfsvjN2wOC2fuDFrdawJtWADScC%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=8tsmm6nspocz3ha9.khr2dz0ola61ydpze6zvu7jhcd4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=8tsmm6NspoCZ3HA9.KHr2DZ0OLa61yDPZE6ZVU7Jhcd4.WORKErS.dEV#@Vip_Security join us - 1
 trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?allowInsecure=1#@Vip_Security join us - 5
 trojan://86768774-70b2-4c15-80c3-02066fb1e3b6@104.21.39.202:443?path=%2F152.32.181.246-44070&security=tls&insecure=0&host=zholli90.biggestqut.workers.dev&type=ws&allowInsecure=0&sni=zholli90.biggestqut.workers.dev#@Vip_Security join us - 6
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#@Vip_Security join us - 4
