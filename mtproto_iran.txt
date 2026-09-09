@@ -7,12 +7,14 @@ https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd1040
 https://t.me/proxy?server=try.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=teranhavaei.charkhofalak.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
 https://t.me/proxy?server=super.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=steamfast.digikallamall.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=stay.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=sardar.spdns.eu&port=200&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -31,6 +33,7 @@ https://t.me/proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd
 https://t.me/proxy?server=new.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=naturalistic.receptacle.sternutator.teleseryetvreplay.com&port=443&secret=eeb66c9ff483d807e9f811a41f31dd0b59647a656e2e7275
 https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38cb72f40c92238c6e2ce02c
 https://t.me/proxy?server=mt2.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=miscegenation.radiosensitive.transpicuous.teleseryepinoytv.com&port=443&secret=ee3deb756520d545aa83c9f354c39c88f7647a656e2e7275
@@ -47,9 +50,9 @@ https://t.me/proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee16030102000100
 https://t.me/proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=ganister.interstellar.nabob.teleseryepinoytv.com&port=443&secret=eec3116847507eb4815a35fc81f77f30e3647a656e2e7275
 https://t.me/proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
+https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=fi1.igorlink.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275
 https://t.me/proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
-https://t.me/proxy?server=evo.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=eshkal-nadare.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=eruptive.predefine.unfabled.teleseryegroup.com&port=443&secret=ee788b763e1ef94fac1548c508e7935816647a656e2e7275
 https://t.me/proxy?server=dhd7d.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
@@ -85,7 +88,6 @@ https://t.me/proxy?server=50.7.6.150&port=443&secret=ee1603010200010001fc030386e
 https://t.me/proxy?server=50.7.156.50&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=50.7.127.174&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=5.9.203.240&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d
-https://t.me/proxy?server=5.75.202.240&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.196.183&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=46.62.231.55&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=46.62.227.16&port=443&secret=6b809dd6a92fe7f48a093e7524cb6561
