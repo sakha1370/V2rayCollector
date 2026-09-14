@@ -22,7 +22,6 @@ https://t.me/proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f
 https://t.me/proxy?server=pp1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=nu2.iiproxy.com&port=443&secret=01e7d82f697e538432ff7ba16ffb56a3
 https://t.me/proxy?server=nu1.iiproxy.com&port=443&secret=e715fe0790e2b7a184c5f96096af14f5
-https://t.me/proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=lll.ililil.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
