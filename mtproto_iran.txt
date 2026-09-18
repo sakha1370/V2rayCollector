@@ -7,7 +7,6 @@ https://t.me/proxy?server=www.avrilon.uk.&port=443&secret=dd22e72043efda740764d3
 https://t.me/proxy?server=www.381-012.ir.&port=443&secret=ee1044048187495dfac59a030220c25cb37777772e7961686f6f2e636f6d
 https://t.me/proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=voidnest.8lil.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -22,7 +21,6 @@ https://t.me/proxy?server=static-resources-api.website&port=80&secret=eefc56fb73
 https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=ssd-hdd-nvme.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=ss.iiproxy.com&port=443&secret=dd22e72043efda740764d3080ae96ebf17
-https://t.me/proxy?server=silentveil.7ug.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=sensitizer.unparted.upscale.gmateleserye.com&port=443&secret=eec7aee1f820ac1fc748444dfe1bc8132b647a656e2e7275
 https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -33,8 +31,6 @@ https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=16030102000
 https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=online-iran.ir.awedsj.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=nu2.iiproxy.com&port=443&secret=01e7d82f697e538432ff7ba16ffb56a3
-https://t.me/proxy?server=nu1.iiproxy.com&port=443&secret=e715fe0790e2b7a184c5f96096af14f5
 https://t.me/proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -56,7 +52,6 @@ https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=160301020
 https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=j4y7nf.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=ii.iiproxy.com&port=443&secret=14815c50715e89a34ae24844e01aaab3
 https://t.me/proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -81,7 +76,6 @@ https://t.me/proxy?server=chalesh.khodkarbic.info&port=8443&secret=1603010200010
 https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=altaria.proxy.rlwy.net&port=35682&secret=34a6d7dcf5f80e1197812159a6f10b7e
 https://t.me/proxy?server=albinoism.delinquent.paradisaical.teleseryeme.com&port=443&secret=ee18360720b1a4777508c449002c5c1cb6647a656e2e7275
 https://t.me/proxy?server=ahvaz.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
