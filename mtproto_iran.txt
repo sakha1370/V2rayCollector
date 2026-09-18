@@ -4,7 +4,6 @@ https://t.me/proxy?server=www.newtcpconnectiodo.store&port=888&secret=ee0c306282
 https://t.me/proxy?server=www.glowship.ir.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=www.galacticfireworks.pro.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=www.avrilon.uk.&port=443&secret=dd22e72043efda740764d3080ae96ebf17
-https://t.me/proxy?server=www.381-012.ir.&port=443&secret=ee1044048187495dfac59a030220c25cb37777772e7961686f6f2e636f6d
 https://t.me/proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
