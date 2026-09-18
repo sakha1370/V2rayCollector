@@ -18,7 +18,6 @@ https://t.me/proxy?server=team-daemi.barekatbashe.info&port=8443&secret=16030102
 https://t.me/proxy?server=talfighi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=stay.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
 https://t.me/proxy?server=static-resources-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=ssd-hdd-nvme.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=ss.iiproxy.com&port=443&secret=dd22e72043efda740764d3080ae96ebf17
 https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
@@ -47,7 +46,6 @@ https://t.me/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200
 https://t.me/proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=khaterate.2nafare.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=khalije-ta-abad-fars.ir.pugfhtrdyted.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d
 https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -58,7 +56,6 @@ https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=160301
 https://t.me/proxy?server=go.tvoyasvoboda.help&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4
 https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=gamerpr.cfd&port=443&secret=ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275
 https://t.me/proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=freeinternet.skin&port=443&secret=ee78437f70effbb0fd37b573d600676558617669746f2e7275
 https://t.me/proxy?server=fluxabyss.eyfst.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
@@ -94,7 +91,6 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=188.245.218.105&port=7799&secret=dd10400103324995b07c030386e886e7f1
-https://t.me/proxy?server=185.84.156.137&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
 https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=155.117.234.54&port=1212&secret=9d07ce333605894aaf231dd174bde6f1
 https://t.me/proxy?server=151.244.42.7&port=85&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
