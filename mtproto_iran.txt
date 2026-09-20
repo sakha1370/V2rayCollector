@@ -58,6 +58,7 @@ https://t.me/proxy?server=dark.canmycheshm.co.uk.&port=25565&secret=ee1044628212
 https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=chalesh.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=albinoism.delinquent.paradisaical.teleseryeme.com&port=443&secret=ee18360720b1a4777508c449002c5c1cb6647a656e2e7275
