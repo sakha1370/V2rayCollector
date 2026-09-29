@@ -16,11 +16,13 @@ https://t.me/proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c
 https://t.me/proxy?server=ravan.ravangroup.xyz&port=443&secret=eec4bc3ccb0f27aa235a4f622fc5ab4ec17777772e6a7364656c6976722e6e6574
 https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=phonebackup.lol&port=443&secret=ee4a587c0a84d8c02045cbbfc2edbdb8d9636c6f75642e6d61696c2e7275
 https://t.me/proxy?server=p1.uk.clazumo.ir&port=8443&secret=eec8d688fa4c0f266f279d7b07778da3bb617069322e6272616e63682e696f
 https://t.me/proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70
 https://t.me/proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -40,6 +42,7 @@ https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=79e344818749bd7
 https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=ferecans.jadidmadid.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
@@ -51,7 +54,9 @@ https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001
 https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=apps.blueheartz.ir&port=443&secret=b895e7d683b7fb2c7cb59a2e820fb90c
 https://t.me/proxy?server=adam.poolaki.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=95.163.208.41&port=443&secret=eeb84c4dd66de8cfc70f103d43748431ec7777772e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=94.184.39.1122.suser.ir&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=84.23.52.184&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
