@@ -11,7 +11,6 @@ https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=16030102
 https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=phonebackup.lol&port=443&secret=ee4a587c0a84d8c02045cbbfc2edbdb8d9636c6f75642e6d61696c2e7275
 https://t.me/proxy?server=p13.us.clazumo.ir&port=8443&secret=eea6c784996c7809935ba24cc34e409c1d617069322e6272616e63682e696f
-https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=mashti-khan.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=love.roseprox.xyz&port=2443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
@@ -20,10 +19,8 @@ https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=160301020
 https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=fi1.igorlink.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275
@@ -33,15 +30,15 @@ https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010
 https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=adam.poolaki.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=95.217.31.48&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=94.184.39.1122.suser.ir&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
 https://t.me/proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
+https://t.me/proxy?server=87.248.129.49&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=87.248.129.190&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=87.106.137.212&port=21212&secret=312b91cf4831abf49809466752b9c364
 https://t.me/proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d
 https://t.me/proxy?server=77.42.79.76&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -51,9 +48,7 @@ https://t.me/proxy?server=65.109.16.139&port=443&secret=dd104462821249bd7ac51913
 https://t.me/proxy?server=49.13.24.222&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.137.49&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.12.79.244&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=212.108.98.100.aprawood.ir&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=204.168.153.162&port=8080&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=198.251.91.184&port=9443&secret=ee245cf66854d278e49ff68172334bf0
 https://t.me/proxy?server=195.201.250.234&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=188.40.167.64&port=443&secret=ee5ed3b193b12da9b9b7e5042810190600
 https://t.me/proxy?server=188.40.167.64&port=443&secret=5ed3b193b12da9b9b7e5042810190600
