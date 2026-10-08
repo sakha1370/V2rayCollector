@@ -1,3 +1,4 @@
+socks5://Ugybs:37tE5FSF@193.42.38.199:80@Vip_Security join us - 1
 socks5://ID_vpnclientpro3:ID_vpnclientpro3@94.102.49.189:1081@Vip_Security join us - 1
 socks5://ID_vpnclientpro3:ID_vpnclientpro3@87.117.198.61:1081@Vip_Security join us - 1
 socks5://1318395-9f605ec9:fafdfce0-US-97295503@gate-us.kkoip.com:19651@Vip_Security join us - 1
