@@ -55,6 +55,7 @@ https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7a
 https://t.me/proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
 https://t.me/proxy?server=87.248.129.49&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=87.248.129.190&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=78.109.199.224&port=443&secret=6a67ae4c2d173b4168745435cb313a39
 https://t.me/proxy?server=69d7d7d0.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.202.240&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.24.222&port=8443&secret=dd104462821249bd7ac519130220c25d09
