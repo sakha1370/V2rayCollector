@@ -19,6 +19,7 @@ https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7a
 https://t.me/proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=kmp.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -30,11 +31,13 @@ https://t.me/proxy?server=iran.antony-gordon.co.uk&port=4455&secret=dd1044628212
 https://t.me/proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=fi1.igorlink.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275
 https://t.me/proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c90079612e7275
 https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=chalesh.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=billing.mizbanonline.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=bgh.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
