@@ -1,2 +1,1 @@
 socks5://Ugybs:37tE5FSF@193.42.38.199:80@Vip_Security join us - 1
-socks5://ID_vpnclientpro3:ID_vpnclientpro3@87.117.198.61:1081@Vip_Security join us - 1
